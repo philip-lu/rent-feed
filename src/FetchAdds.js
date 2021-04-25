@@ -8,7 +8,7 @@ export default class FetchAdds extends React.Component {
     }
 
     // Static fetch
-   /* async componentDidMount() {
+    async componentDidMount() {
         const url = "https://dimdim.wrenchtech.io/api/search/9498dc25-3472-4e20-83a9-1d6403dc39e3/list/?offset=0&limit=21&ordering=date";
         const response = await fetch(url, {
             headers: {
@@ -17,9 +17,10 @@ export default class FetchAdds extends React.Component {
         });
         const data = await response.json();
         this.setState({ adds: data.results, loading: false});
-    } */
+    }
 
-    componentDidMount() {
+    // ----- Fetch interval------ //
+    /* componentDidMount() {
         this.loadData()
         this.interval = setInterval(this.loadData, 600000);
     }
@@ -44,7 +45,7 @@ export default class FetchAdds extends React.Component {
         } catch (e) {
             console.log(e);
         }
-    }
+    } */
   
     render(){
         const formateDate = (string) => {
@@ -56,7 +57,7 @@ export default class FetchAdds extends React.Component {
             <div>
                 {this.state.loading || !this.state.adds ? ( <h3>Ща всё буит...</h3> ) : ( 
                    <div>
-                   <button className="get-button" onClick={this.loadData}>Обновить</button>
+                   {/* <button className="get-button" onClick={this.loadData}>Обновить</button> */}
                    {this.state.adds.map(apartment => (
                        <div className="apartment-card" key={apartment.id}>
                             <div className="topItems">

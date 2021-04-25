@@ -21,7 +21,7 @@ export default class FetchAdds extends React.Component {
 
     componentDidMount() {
         this.loadData()
-        this.interval = setInterval(this.loadData, 300000);
+        this.interval = setInterval(this.loadData, 600000);
     }
 
     componentWillUnmount() {

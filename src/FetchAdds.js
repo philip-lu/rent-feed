@@ -1,5 +1,5 @@
 import React from "react";
-import "./css/Apartment.css"
+import "./Feed.css"
 
 export default class FetchAdds extends React.Component {
     state = {

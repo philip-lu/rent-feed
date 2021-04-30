@@ -40,15 +40,7 @@ export default class FetchAdds extends React.Component {
 
     async loadData() {
         try {
-            // New buildings - 5500/8000
-            // const url = "https://dimdim.wrenchtech.io/api/search/9498dc25-3472-4e20-83a9-1d6403dc39e3/list/?offset=0&limit=21&ordering=date";
-
-            // All regions/owners - 5500/8000
-            // const url = "https://dimdim.wrenchtech.io/api/search/8cf3d524-46dd-4dcc-9c55-c1ecfd18d698/list/?offset=0&limit=21&ordering=date";
-
-            // New buildings/owners - 5000/7500
-            const url = "https://dimdim.wrenchtech.io/api/search/ab267fec-38f5-41a3-bcbb-b4761a193a06/list/?offset=0&limit=21&ordering=date";
-            
+            const url = "https://dimdim.wrenchtech.io/api/search/8cf3d524-46dd-4dcc-9c55-c1ecfd18d698/list/?offset=0&limit=21&ordering=date";
             const response = await fetch(url, {
                 headers: {
                         "Accept-Language": "ru"

@@ -40,7 +40,7 @@ export default class FetchAdds extends React.Component {
 
     async loadData() {
         try {
-            const url = "https://dimdim.wrenchtech.io/api/search/9498dc25-3472-4e20-83a9-1d6403dc39e3/list/?offset=0&limit=21&ordering=date";
+            const url = "https://dimdim.wrenchtech.io/api/search/8cf3d524-46dd-4dcc-9c55-c1ecfd18d698/list/?offset=0&limit=21&ordering=date";
             const response = await fetch(url, {
                 headers: {
                         "Accept-Language": "ru"

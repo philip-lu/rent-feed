@@ -101,7 +101,7 @@ export default class FetchAdds extends React.Component {
                            <p className="price"><span className="price-uah"><strong>{apartment.price_uah} грн.</strong></span><span className="price-usd"> / {apartment.price_usd} usd</span></p>
                            <p>этаж {apartment.floor} из {apartment.floors_total}</p>
                            <p className="description">{apartment.description}</p>
-                           <a target="_blank" rel="noreferrer" href={apartment.providers[0].url}>{apartment.providers[0].url}</a>
+                           <a target="_blank" rel="noreferrer" href={apartment.providers[0].url}>{apartment.providers[0].provider}</a>
                        </div>
                    ))}
                </div> 

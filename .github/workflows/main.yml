@@ -18,7 +18,7 @@ on:
         default: 'playWrightTest' 
 
 jobs:
-  build:
+  test:
     runs-on: ubuntu-latest
     env:
       pat-token: ${{ secrets.ACCESS_TOKEN }}

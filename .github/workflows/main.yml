@@ -10,12 +10,12 @@ on:
       workflow2_github_account:
         description: 'GitHub Account Owner'
         required: true
-        default: ':philip-lu'
+        default: 'philip-lu'
 
       workflow2_repo_github:
         description: 'repo-name'
         required: true
-        default: ':playWrightTest' 
+        default: 'playWrightTest' 
 
 jobs:
   build:
@@ -25,7 +25,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Test
         run: |
-          curl -X POST https://api.github.com/repos/:philip-lu/:playWrightTest/dispatches \
+          curl -X POST https://api.github.com/repos/philip-lu/playWrightTest/dispatches \
           -H 'Accept: application/vnd.github.everest-preview+json' \
           -u ${{ secrets.ACCESS_TOKEN }} \
           --data '{"event_type": "Trigger Workflow", "client_payload": { "repository": "'"$GITHUB_REPOSITORY"'" }}'

@@ -3,9 +3,9 @@ on:
   workflow_dispatch:
      inputs:
       workflow_02:
-        description: 'ًTests which will be triggered'
+        description: 'ًWorkflow that should be triggered'
         required: true
-        default: 'Triggered Tests'
+        default: 'RunTests_Triggered'
 
       workflow2_github_account:
         description: 'GitHub Account Owner'
@@ -20,9 +20,7 @@ on:
 jobs:
   test:
     runs-on: ubuntu-latest
-    env:
-      pat-token: ${{ secrets.ACCESS_TOKEN }}
-
+    
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Test

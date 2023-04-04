@@ -9,7 +9,7 @@ on:
 jobs:
   tests-run:
     timeout-minutes: 60
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/setup-node@v3
         with:
@@ -23,7 +23,7 @@ jobs:
       - name: Install Playwright Browsers
         run: npx playwright install --with-deps chromium
       - name: Run Playwright tests
-        run: cross-env test_env=${{ inputs.environment }} npx playwright test --grep '@uismoke' --project=chromium
+        run: test_env=${{ inputs.environment }} npx playwright test --grep '@uismoke' --project=chromium
       - uses: actions/upload-artifact@v3
         if: always()
         with:

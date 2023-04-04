@@ -1,0 +1,15 @@
+name: Checkout_and_run_here
+on: [workflow_dispatch]
+
+
+jobs:
+  tests-run:
+    timeout-minutes: 60
+    runs-on: windows-latest
+    steps:
+      - name: Check out my other private repo
+      - uses: actions/checkout@main
+        with:
+          repository: philip-lu/playWrightTest
+          token: ${{ secrets.ACCESS_TOKEN }}
+              

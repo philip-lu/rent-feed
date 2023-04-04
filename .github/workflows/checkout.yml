@@ -11,7 +11,6 @@ jobs:
     timeout-minutes: 60
     runs-on: windows-latest
     steps:
-      - name: Check out my other private repo
       - uses: actions/checkout@master
         with:
           repository: philip-lu/playWrightTest

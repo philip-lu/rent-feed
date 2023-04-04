@@ -10,6 +10,8 @@ jobs:
   tests-run:
     timeout-minutes: 60
     runs-on: windows-latest
+    env:
+      test_env: ${{ inputs.environment }}
     steps:
       - uses: actions/checkout@main
         with:
@@ -25,7 +27,7 @@ jobs:
       - name: Install Playwright deps and browsers
         run: npx playwright install --with-deps msedge
       - name: Run Playwright tests
-        run: cross-env test_env=${{ inputs.environment }} npx playwright test --grep '@uismoke' --project='Microsoft Edge'
+        run: npx playwright test --grep '@uismoke' --project='Microsoft Edge'
       - uses: actions/upload-artifact@v3
         if: always()
         with:

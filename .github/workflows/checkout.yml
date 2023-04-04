@@ -21,7 +21,7 @@ jobs:
       - name: Install dependencies
         run: npm ci
       - name: Install cross-env
-        run: npm install cross-env
+        run: npm install --save-dev cross-env
       - name: Install Playwright deps and browsers
         run: npx playwright install --with-deps msedge
       - name: Run Playwright tests

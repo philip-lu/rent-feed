@@ -1,15 +1,36 @@
-name: Checkout_and_run_here
-on: [workflow_dispatch]
-
-
+name: CheckoutAndRun
+on: 
+  workflow_dispatch:
+    inputs: 
+      environment:
+        description: Set 'dev', 'qa' or 'prod'
+        required: true
+        type: string
 jobs:
   tests-run:
     timeout-minutes: 60
     runs-on: windows-latest
     steps:
       - name: Check out my other private repo
-      - uses: actions/checkout@main
+      - uses: actions/checkout@master
         with:
           repository: philip-lu/playWrightTest
           token: ${{ secrets.ACCESS_TOKEN }}
-              
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Playwright Browsers
+        run: npx playwright install --with-deps msedge
+      - name: Run Playwright tests
+        run: test_env=${{ inputs.environment }} npx playwright test --grep '@uismoke' --project='Microsoft Edge'"
+      - uses: actions/upload-artifact@v3
+        if: always()
+        with:
+          name: test-results
+          path: test-results/
+          retention-days: 30

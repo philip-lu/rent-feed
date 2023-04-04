@@ -22,12 +22,10 @@ jobs:
           node-version: 18
       - name: Install dependencies
         run: npm ci
-      - name: Install cross-env
-        run: npm install --save-dev cross-env
       - name: Install Playwright deps and browsers
-        run: npx playwright install --with-deps msedge
+        run: npx playwright install --with-deps webkit
       - name: Run Playwright tests
-        run: npx playwright test --grep '@uismoke' --project='Microsoft Edge'
+        run: npx playwright test --g 'ebooks' --project=webkit
       - uses: actions/upload-artifact@v3
         if: always()
         with:

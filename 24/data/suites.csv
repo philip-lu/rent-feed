@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Wed Apr 05 20:33:27 GMT 2023","Wed Apr 05 20:33:27 GMT 2023","45","chromium","","","","","Failed @uismoke",""
+"passed","Wed Apr 05 20:33:15 GMT 2023","Wed Apr 05 20:33:27 GMT 2023","12119","chromium","","","","","Verify that user is able to log in and log out from eBooks+ @uismoke @ebooksplus",""
+"passed","Wed Apr 05 20:33:28 GMT 2023","Wed Apr 05 20:33:28 GMT 2023","12","chromium","","","","","Pass @uismoke",""

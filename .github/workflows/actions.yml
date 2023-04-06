@@ -2,7 +2,7 @@ name: Smoke_UI_Tests_Run
 on: 
   [workflow_dispatch]
 jobs:
-  smoke-tests-run:
+  smoke-tests:
     timeout-minutes: 60
     runs-on: ubuntu-latest
     env:

@@ -13,20 +13,23 @@ runs:
         ref: main
         token: ${{ inputs.ACCESS_TOKEN }}
           
-    - name: Code checkout
-      uses: actions/checkout@v3
+    #- name: Code checkout
+      #uses: actions/checkout@v3
 
     - uses: actions/setup-node@v3
       with:
         node-version: 16
 
     - name: Install dependencies
+      shell: bash
       run: npm ci
         
     - name: Install Playwright deps and browsers
+      shell: bash
       run: npx playwright install --with-deps chromium
         
     - name: Run Playwright tests
+      shell: bash
       run: npx playwright test --grep '@uismoke' --project=chromium
 
     - uses: actions/upload-artifact@v3

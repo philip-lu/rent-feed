@@ -3,6 +3,7 @@ description: Checkout test repo using GITHUB_PAT and run tests
 runs:
   using: 'composite'
   steps:
+    - name: Checkout Repository
     - uses: actions/checkout@v3
       with:
         repository: philip-lu/playWrightTest

@@ -1,5 +1,9 @@
 name: Checkout and run tests
 description: Checkout test repo using GITHUB_PAT and run tests
+inputs:
+  ACCESS_TOKEN:
+    description: ''
+    required: true
 runs:
   using: 'composite'
   steps:
@@ -8,7 +12,7 @@ runs:
       with:
         repository: philip-lu/playWrightTest
         ref: main
-        token: ${{ secrets.ACCESS_TOKEN }}
+        token: ${{ inputs.ACCESS_TOKEN }}
           
     - name: Code checkout
       uses: actions/checkout@v3

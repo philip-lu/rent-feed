@@ -1,0 +1,14 @@
+name: Smoke_UI_Tests_Run
+on: 
+  [workflow_dispatch]
+jobs:
+  smoke-tests-run:
+    timeout-minutes: 60
+    runs-on: ubuntu-latest
+    env:
+      ebooks_user1_pass: 'OhceAutoUser1!pass'
+      test_env: qa
+      
+    steps:
+      - name: Checkout tests and run
+        uses: ./.github/actions/smoke_tests_run

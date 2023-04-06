@@ -21,15 +21,12 @@ runs:
         node-version: 16
 
     - name: Install dependencies
-      shell: bash
       run: npm ci
         
     - name: Install Playwright deps and browsers
-      shell: bash
       run: npx playwright install --with-deps chromium
         
     - name: Run Playwright tests
-      shell: bash
       run: npx playwright test --grep '@uismoke' --project=chromium
 
     - uses: actions/upload-artifact@v3

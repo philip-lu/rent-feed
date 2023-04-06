@@ -15,3 +15,5 @@ jobs:
         
       - name: Checkout tests and run
         uses: ./.github/actions/smoke_tests_run
+        with:
+          ACCESS_TOKEN: ${{ secrets.ACCESWS_TOKEN }}

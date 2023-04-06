@@ -10,5 +10,8 @@ jobs:
       test_env: qa
       
     steps:
+      - name: Code checkout
+        uses: actions/checkout@v3
+        
       - name: Checkout tests and run
         uses: ./.github/actions/smoke_tests_run

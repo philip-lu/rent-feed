@@ -3,16 +3,12 @@ description: Checkout test repo using GITHUB_PAT and run tests
 runs:
   using: 'composite'
   steps:
-    - name: Checkout tests
-      shell: bash
-      run: echo "GITHUB_PAT=$(aws ssm get-parameter --name /tio/github/access_token --with-decryption | jq -r .Parameter.Value)" >> $GITHUB_ENV
-    - name: Checkout Service Configuration Repository
-      uses: actions/checkout@v3
-      with:
-        repository: elsevier-health/esp-ui-automation-tests
-        ref: develop
-        token: ${{ env.GITHUB_PAT }}
-    # Necessary to checkout back from the esp-configuration repo
+    - uses: actions/checkout@v3
+        with:
+          repository: philip-lu/playWrightTest
+          ref: main
+          token: ${{ secrets.ACCESS_TOKEN }}
+          
     - name: Code checkout
       uses: actions/checkout@v3
 

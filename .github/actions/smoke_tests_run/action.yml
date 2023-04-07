@@ -23,11 +23,11 @@ runs:
         
     - name: Install Playwright deps and browsers
       shell: bash
-      run: npx playwright install --with-deps chromium
+      run: npx playwright install --with-deps msedge
         
     - name: Run Playwright tests
       shell: bash
-      run: npx playwright test --grep '@uismoke' --project=chromium
+      run: npx playwright test --grep '@uismoke' --project='Microsoft Edge'
 
     - uses: actions/upload-artifact@v3
       if: always()

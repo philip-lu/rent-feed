@@ -57,7 +57,6 @@ jobs:
         with:
           test_results: monocart-results
           gh_pages: gh-pages
-          results_history: monocart-results
 
       - name: Deploy report to Github Pages
         if: always()

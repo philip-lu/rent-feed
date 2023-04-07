@@ -1,9 +1,9 @@
 {
     "name": "My Test Report",
-    "date": 1680886055715,
-    "dateH": "4/7/2023, 4:47:35 PM",
-    "duration": 36785,
-    "durationH": "36.8s",
+    "date": 1680886728137,
+    "dateH": "4/7/2023, 4:58:48 PM",
+    "duration": 37457,
+    "durationH": "37.5s",
     "cwd": "/home/runner/work/react-rent-feed/react-rent-feed",
     "outputFile": "./test-results/index.html",
     "outputDir": "./test-results",
@@ -12,8 +12,8 @@
         "cpu": {
             "color": "#117DBB",
             "count": 2,
-            "model": "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
-            "speed": 2793
+            "model": "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+            "speed": 2593
         },
         "mem": {
             "color": "#8B12AE",
@@ -24,183 +24,183 @@
         "release": "5.15.0-1035-azure",
         "type": "Linux",
         "version": "#42-Ubuntu SMP Tue Feb 28 19:41:23 UTC 2023",
-        "uptime": 388.33,
-        "hostname": "fv-az407-399",
+        "uptime": 135.28,
+        "hostname": "fv-az397-830",
         "homedir": "/home/runner",
         "tmpdir": "/tmp",
-        "pid": 4583,
-        "timestampStart": 1680886055715,
+        "pid": 4543,
+        "timestampStart": 1680886728137,
         "ticks": [
             {
                 "cpu": {
-                    "percent": 44.16
+                    "percent": 10.11
                 },
                 "mem": {
-                    "free": 6120296448
+                    "free": 6144327680
                 },
-                "timestamp": 1680886057717
+                "timestamp": 1680886730140
             },
             {
                 "cpu": {
-                    "percent": 75
+                    "percent": 40.2
                 },
                 "mem": {
-                    "free": 6171299840
+                    "free": 6200287232
                 },
-                "timestamp": 1680886059719
+                "timestamp": 1680886732142
             },
             {
                 "cpu": {
-                    "percent": 67.02
+                    "percent": 64.68
                 },
                 "mem": {
-                    "free": 6104281088
+                    "free": 6208946176
                 },
-                "timestamp": 1680886061720
+                "timestamp": 1680886734144
             },
             {
                 "cpu": {
-                    "percent": 34.02
+                    "percent": 80
                 },
                 "mem": {
-                    "free": 5911052288
+                    "free": 6003310592
                 },
-                "timestamp": 1680886063723
+                "timestamp": 1680886736146
             },
             {
                 "cpu": {
-                    "percent": 67.68
+                    "percent": 40.1
                 },
                 "mem": {
-                    "free": 6193242112
+                    "free": 6261825536
                 },
-                "timestamp": 1680886065725
+                "timestamp": 1680886738148
             },
             {
                 "cpu": {
-                    "percent": 84.1
+                    "percent": 78.68
                 },
                 "mem": {
-                    "free": 5853278208
+                    "free": 6021718016
                 },
-                "timestamp": 1680886067726
+                "timestamp": 1680886740149
             },
             {
                 "cpu": {
-                    "percent": 41.71
+                    "percent": 74.23
                 },
                 "mem": {
-                    "free": 6219001856
+                    "free": 6249308160
                 },
-                "timestamp": 1680886069727
+                "timestamp": 1680886742150
             },
             {
                 "cpu": {
-                    "percent": 55.56
+                    "percent": 39.07
                 },
                 "mem": {
-                    "free": 6185140224
+                    "free": 6153261056
                 },
-                "timestamp": 1680886071728
+                "timestamp": 1680886744153
             },
             {
                 "cpu": {
-                    "percent": 35.11
+                    "percent": 58.33
                 },
                 "mem": {
-                    "free": 5933625344
+                    "free": 6016569344
                 },
-                "timestamp": 1680886073728
+                "timestamp": 1680886746154
             },
             {
                 "cpu": {
-                    "percent": 72.25
+                    "percent": 74.62
                 },
                 "mem": {
-                    "free": 6200918016
+                    "free": 6022770688
                 },
-                "timestamp": 1680886075730
+                "timestamp": 1680886748154
             },
             {
                 "cpu": {
-                    "percent": 77.78
+                    "percent": 83.92
                 },
                 "mem": {
-                    "free": 6218285056
+                    "free": 6254612480
                 },
-                "timestamp": 1680886077730
+                "timestamp": 1680886750155
             },
             {
                 "cpu": {
-                    "percent": 26.92
+                    "percent": 1.98
                 },
                 "mem": {
-                    "free": 6217560064
+                    "free": 6239338496
                 },
-                "timestamp": 1680886079732
+                "timestamp": 1680886752157
             },
             {
                 "cpu": {
-                    "percent": 9.26
+                    "percent": 5.88
                 },
                 "mem": {
-                    "free": 6172999680
+                    "free": 6214656000
                 },
-                "timestamp": 1680886081734
+                "timestamp": 1680886754159
             },
             {
                 "cpu": {
-                    "percent": 8.93
+                    "percent": 8.06
                 },
                 "mem": {
-                    "free": 6163152896
+                    "free": 6197358592
                 },
-                "timestamp": 1680886083735
+                "timestamp": 1680886756162
             },
             {
                 "cpu": {
-                    "percent": 2.04
+                    "percent": 5.1
                 },
                 "mem": {
-                    "free": 6161526784
+                    "free": 6187679744
                 },
-                "timestamp": 1680886085738
+                "timestamp": 1680886758165
             },
             {
                 "cpu": {
-                    "percent": 31.29
+                    "percent": 9.62
                 },
                 "mem": {
-                    "free": 6144999424
+                    "free": 6195367936
                 },
-                "timestamp": 1680886087740
+                "timestamp": 1680886760167
             },
             {
                 "cpu": {
-                    "percent": 58.42
+                    "percent": 36.5
                 },
                 "mem": {
-                    "free": 6105763840
+                    "free": 6172524544
                 },
-                "timestamp": 1680886089741
+                "timestamp": 1680886762169
             },
             {
                 "cpu": {
-                    "percent": 47.72
+                    "percent": 49.48
                 },
                 "mem": {
-                    "free": 6250213376
+                    "free": 6127087616
                 },
-                "timestamp": 1680886091741
+                "timestamp": 1680886764171
             },
             {
                 "cpu": {
-                    "percent": 5.53
+                    "percent": 5.56
                 },
                 "mem": {
-                    "free": 6250213376
+                    "free": 6254673920
                 },
-                "timestamp": 1680886092494
+                "timestamp": 1680886765587
             }
         ],
         "workers": 1,
@@ -209,141 +209,113 @@
                 "caseId": "28b48f724eb71cf13abc",
                 "parallelIndex": 0,
                 "workerIndex": 0,
-                "timestamp": 1680886056213,
-                "duration": 1519
+                "timestamp": 1680886728644,
+                "duration": 3277
             },
             {
                 "caseId": "28b48f724eb71cf13abc",
                 "parallelIndex": 0,
                 "workerIndex": 1,
-                "timestamp": 1680886058097,
-                "duration": 1434
+                "timestamp": 1680886732293,
+                "duration": 1615
             },
             {
                 "caseId": "9aa90b881b35f4439564",
-                "parallelIndex": 0,
-                "workerIndex": 2,
-                "timestamp": 1680886059892,
-                "duration": 26
-            },
-            {
-                "caseId": "9aa90b881b35f4439564",
-                "parallelIndex": 0,
-                "workerIndex": 3,
-                "timestamp": 1680886060277,
-                "duration": 44
+                "parallelIndex": -1,
+                "workerIndex": -1,
+                "timestamp": 1680886733908,
+                "duration": 0
             },
             {
                 "caseId": "2f0dab20ee727b84f7b8",
-                "parallelIndex": 0,
-                "workerIndex": 4,
-                "timestamp": 1680886060679,
-                "duration": 12
+                "parallelIndex": -1,
+                "workerIndex": -1,
+                "timestamp": 1680886733908,
+                "duration": 0
             },
             {
                 "caseId": "9769c21b6297ad535b64",
                 "parallelIndex": 0,
-                "workerIndex": 5,
-                "timestamp": 1680886061062,
-                "duration": 4142
+                "workerIndex": 2,
+                "timestamp": 1680886734284,
+                "duration": 3707
             },
             {
                 "caseId": "9769c21b6297ad535b64",
                 "parallelIndex": 0,
-                "workerIndex": 6,
-                "timestamp": 1680886065563,
-                "duration": 3512
+                "workerIndex": 3,
+                "timestamp": 1680886738370,
+                "duration": 3636
             },
             {
                 "caseId": "e74a12f540d0a49bc87a",
-                "parallelIndex": 0,
-                "workerIndex": 7,
-                "timestamp": 1680886069435,
-                "duration": 28
-            },
-            {
-                "caseId": "e74a12f540d0a49bc87a",
-                "parallelIndex": 0,
-                "workerIndex": 8,
-                "timestamp": 1680886069821,
-                "duration": 40
+                "parallelIndex": -1,
+                "workerIndex": -1,
+                "timestamp": 1680886742007,
+                "duration": 0
             },
             {
                 "caseId": "73134eb2fe6500db730f",
-                "parallelIndex": 0,
-                "workerIndex": 9,
-                "timestamp": 1680886070220,
-                "duration": 12
+                "parallelIndex": -1,
+                "workerIndex": -1,
+                "timestamp": 1680886742007,
+                "duration": 0
             },
             {
                 "caseId": "e2dd09fcbec3ad148bed",
                 "parallelIndex": 0,
-                "workerIndex": 10,
-                "timestamp": 1680886070603,
-                "duration": 4372
+                "workerIndex": 4,
+                "timestamp": 1680886742382,
+                "duration": 4346
             },
             {
                 "caseId": "e2dd09fcbec3ad148bed",
                 "parallelIndex": 0,
-                "workerIndex": 11,
-                "timestamp": 1680886075333,
-                "duration": 2089
+                "workerIndex": 5,
+                "timestamp": 1680886747110,
+                "duration": 3021
             },
             {
                 "caseId": "fc79cd2641c490784372",
-                "parallelIndex": 0,
-                "workerIndex": 12,
-                "timestamp": 1680886077778,
-                "duration": 24
-            },
-            {
-                "caseId": "fc79cd2641c490784372",
-                "parallelIndex": 0,
-                "workerIndex": 13,
-                "timestamp": 1680886078167,
-                "duration": 32
+                "parallelIndex": -1,
+                "workerIndex": -1,
+                "timestamp": 1680886750131,
+                "duration": 0
             },
             {
                 "caseId": "4a44fe057d17d0a57eff",
-                "parallelIndex": 0,
-                "workerIndex": 14,
-                "timestamp": 1680886078557,
-                "duration": 11
+                "parallelIndex": -1,
+                "workerIndex": -1,
+                "timestamp": 1680886750131,
+                "duration": 0
             },
             {
                 "caseId": "4a906ccd970cc53feb2e",
                 "parallelIndex": 0,
-                "workerIndex": 15,
-                "timestamp": 1680886078942,
-                "duration": 9430
+                "workerIndex": 6,
+                "timestamp": 1680886750538,
+                "duration": 12144
             },
             {
                 "caseId": "4a906ccd970cc53feb2e",
                 "parallelIndex": 0,
-                "workerIndex": 16,
-                "timestamp": 1680886088729,
-                "duration": 1543
+                "workerIndex": 7,
+                "timestamp": 1680886763054,
+                "duration": 1479
             },
             {
                 "caseId": "4f72a96b7e50b51727e4",
-                "parallelIndex": 0,
-                "workerIndex": 17,
-                "timestamp": 1680886090629,
-                "duration": 21
-            },
-            {
-                "caseId": "4f72a96b7e50b51727e4",
-                "parallelIndex": 0,
-                "workerIndex": 18,
-                "timestamp": 1680886091013,
-                "duration": 43
+                "parallelIndex": -1,
+                "workerIndex": -1,
+                "timestamp": 1680886764533,
+                "duration": 0
             },
             {
                 "caseId": "039f0b522d7665ff134c",
-                "parallelIndex": 0,
-                "workerIndex": 19,
-                "timestamp": 1680886091414,
-                "duration": 12
+                "parallelIndex": -1,
+                "workerIndex": -1,
+                "timestamp": 1680886764533,
+                "duration": 0
             }
         ],
         "cwd": "/home/runner/work/react-rent-feed/react-rent-feed",
@@ -352,7 +324,7 @@
         "testDir": "tests",
         "outputFile": "test-results/index.html",
         "outputDir": "test-results",
-        "timestampEnd": 1680886092500
+        "timestampEnd": 1680886765594
     },
     "trends": [],
     "columns": [
@@ -484,12 +456,12 @@
                             "expectedStatus": "passed",
                             "location": "tests/ebooks/smokeTests.spec.js:10:5",
                             "timestamps": [
-                                1680886056213,
-                                1680886057732,
-                                1680886058097,
-                                1680886059531
+                                1680886728644,
+                                1680886731921,
+                                1680886732293,
+                                1680886733908
                             ],
-                            "duration": 3318,
+                            "duration": 5264,
                             "timeout": 30000,
                             "attachments": [
                                 {
@@ -520,7 +492,7 @@
                                     "type": "step",
                                     "category": "hook",
                                     "status": "hook",
-                                    "duration": 333,
+                                    "duration": 405,
                                     "location": "",
                                     "subs": [
                                         {
@@ -538,7 +510,7 @@
                                     "type": "step",
                                     "category": "pw:api",
                                     "status": "pw:api",
-                                    "duration": 1036,
+                                    "duration": 2691,
                                     "location": "tests/ebooks/smokeTests.spec.js:12:14"
                                 },
                                 {
@@ -546,7 +518,7 @@
                                     "type": "step",
                                     "category": "hook",
                                     "status": "hook",
-                                    "duration": 146,
+                                    "duration": 176,
                                     "location": "",
                                     "subs": [
                                         {
@@ -554,7 +526,7 @@
                                             "type": "step",
                                             "category": "hook",
                                             "status": "hook",
-                                            "duration": 87,
+                                            "duration": 119,
                                             "location": "",
                                             "subs": [
                                                 {
@@ -562,7 +534,7 @@
                                                     "type": "step",
                                                     "category": "pw:api",
                                                     "status": "pw:api",
-                                                    "duration": 84,
+                                                    "duration": 113,
                                                     "location": ""
                                                 }
                                             ]
@@ -588,7 +560,7 @@
                                     "type": "step",
                                     "category": "hook",
                                     "status": "hook",
-                                    "duration": 226,
+                                    "duration": 252,
                                     "location": "",
                                     "subs": [
                                         {
@@ -596,7 +568,7 @@
                                             "type": "step",
                                             "category": "pw:api",
                                             "status": "pw:api",
-                                            "duration": 42,
+                                            "duration": 44,
                                             "location": ""
                                         }
                                     ]
@@ -606,7 +578,7 @@
                                     "type": "step",
                                     "category": "pw:api",
                                     "status": "pw:api",
-                                    "duration": 925,
+                                    "duration": 1099,
                                     "location": "tests/ebooks/smokeTests.spec.js:12:14"
                                 },
                                 {
@@ -614,7 +586,7 @@
                                     "type": "step",
                                     "category": "hook",
                                     "status": "hook",
-                                    "duration": 279,
+                                    "duration": 260,
                                     "location": "",
                                     "subs": [
                                         {
@@ -622,7 +594,7 @@
                                             "type": "step",
                                             "category": "hook",
                                             "status": "hook",
-                                            "duration": 113,
+                                            "duration": 108,
                                             "location": "",
                                             "subs": [
                                                 {
@@ -630,7 +602,7 @@
                                                     "type": "step",
                                                     "category": "pw:api",
                                                     "status": "pw:api",
-                                                    "duration": 112,
+                                                    "duration": 106,
                                                     "location": ""
                                                 }
                                             ]
@@ -640,7 +612,7 @@
                                             "type": "step",
                                             "category": "pw:api",
                                             "status": "pw:api",
-                                            "duration": 6,
+                                            "duration": 11,
                                             "location": ""
                                         }
                                     ]
@@ -651,158 +623,48 @@
                         {
                             "title": "Failed @nrt",
                             "type": "case",
-                            "caseType": "failed",
+                            "caseType": "skipped",
                             "caseId": "9aa90b881b35f4439564",
-                            "ok": false,
-                            "outcome": "unexpected",
-                            "expectedStatus": "passed",
-                            "location": "tests/ebooks/smokeTests.spec.js:41:5",
+                            "ok": true,
+                            "outcome": "skipped",
+                            "expectedStatus": "skipped",
+                            "location": "tests/ebooks/smokeTests.spec.js:41:6",
                             "timestamps": [
-                                1680886059892,
-                                1680886059918,
-                                1680886060277,
-                                1680886060321
+                                1680886733908,
+                                1680886733908
                             ],
-                            "duration": 429,
+                            "duration": 0,
+                            "annotations": [
+                                {
+                                    "type": "skip"
+                                }
+                            ],
                             "timeout": 30000,
-                            "attachments": [
-                                {
-                                    "name": "trace",
-                                    "path": "ebooks-smokeTests-Failed-nrt-chromium-retry1/trace.zip",
-                                    "contentType": "application/zip"
-                                }
-                            ],
-                            "retry": 1,
-                            "status": "failed",
-                            "subs": [
-                                {
-                                    "title": "Before Hooks",
-                                    "type": "step",
-                                    "category": "hook",
-                                    "status": "hook",
-                                    "duration": 7,
-                                    "location": ""
-                                },
-                                {
-                                    "title": "expect.toBeLessThanOrEqual",
-                                    "type": "step",
-                                    "category": "expect",
-                                    "status": "expect",
-                                    "duration": 3,
-                                    "location": "tests/ebooks/smokeTests.spec.js:43:13",
-                                    "errors": [
-                                        "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBeLessThanOrEqual\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m\n\nExpected: <= \u001b[32m1\u001b[39m\nReceived:    \u001b[31m2\u001b[39m\n\n  41 | test('Failed @nrt', async () => {\n  42 |   const x = 2;\n> 43 |   expect(x).toBeLessThanOrEqual(1);\n     |             ^\n\n    at /home/runner/work/react-rent-feed/react-rent-feed/tests/ebooks/smokeTests.spec.js:43:13"
-                                    ],
-                                    "numErrors": 1
-                                },
-                                {
-                                    "title": "After Hooks",
-                                    "type": "step",
-                                    "category": "hook",
-                                    "status": "hook",
-                                    "duration": 8,
-                                    "location": "",
-                                    "subs": [
-                                        {
-                                            "title": "Screenshot on failure",
-                                            "type": "step",
-                                            "category": "hook",
-                                            "status": "hook",
-                                            "duration": 0,
-                                            "location": ""
-                                        }
-                                    ]
-                                },
-                                {
-                                    "title": "Retry #1",
-                                    "type": "step",
-                                    "status": "retry",
-                                    "retry": 1
-                                },
-                                {
-                                    "title": "Before Hooks",
-                                    "type": "step",
-                                    "category": "hook",
-                                    "status": "hook",
-                                    "duration": 7,
-                                    "location": ""
-                                },
-                                {
-                                    "title": "expect.toBeLessThanOrEqual",
-                                    "type": "step",
-                                    "category": "expect",
-                                    "status": "expect",
-                                    "duration": 3,
-                                    "location": "tests/ebooks/smokeTests.spec.js:43:13",
-                                    "errors": [
-                                        "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBeLessThanOrEqual\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m\n\nExpected: <= \u001b[32m1\u001b[39m\nReceived:    \u001b[31m2\u001b[39m\n\n  41 | test('Failed @nrt', async () => {\n  42 |   const x = 2;\n> 43 |   expect(x).toBeLessThanOrEqual(1);\n     |             ^\n\n    at /home/runner/work/react-rent-feed/react-rent-feed/tests/ebooks/smokeTests.spec.js:43:13"
-                                    ],
-                                    "numErrors": 1
-                                },
-                                {
-                                    "title": "After Hooks",
-                                    "type": "step",
-                                    "category": "hook",
-                                    "status": "hook",
-                                    "duration": 30,
-                                    "location": "",
-                                    "subs": [
-                                        {
-                                            "title": "Screenshot on failure",
-                                            "type": "step",
-                                            "category": "hook",
-                                            "status": "hook",
-                                            "duration": 1,
-                                            "location": ""
-                                        }
-                                    ]
-                                }
-                            ],
-                            "numErrors": 2
+                            "retry": 0,
+                            "status": "skipped"
                         },
                         {
                             "title": "Pass @nrt",
                             "type": "case",
-                            "caseType": "passed",
+                            "caseType": "skipped",
                             "caseId": "2f0dab20ee727b84f7b8",
                             "ok": true,
-                            "outcome": "expected",
-                            "expectedStatus": "passed",
-                            "location": "tests/ebooks/smokeTests.spec.js:46:5",
+                            "outcome": "skipped",
+                            "expectedStatus": "skipped",
+                            "location": "tests/ebooks/smokeTests.spec.js:46:6",
                             "timestamps": [
-                                1680886060679,
-                                1680886060691
+                                1680886733908,
+                                1680886733908
                             ],
-                            "duration": 12,
+                            "duration": 0,
+                            "annotations": [
+                                {
+                                    "type": "skip"
+                                }
+                            ],
                             "timeout": 30000,
                             "retry": 0,
-                            "status": "passed",
-                            "subs": [
-                                {
-                                    "title": "Before Hooks",
-                                    "type": "step",
-                                    "category": "hook",
-                                    "status": "hook",
-                                    "duration": 8,
-                                    "location": ""
-                                },
-                                {
-                                    "title": "expect.toBeLessThanOrEqual",
-                                    "type": "step",
-                                    "category": "expect",
-                                    "status": "expect",
-                                    "duration": 0,
-                                    "location": "tests/ebooks/smokeTests.spec.js:48:13"
-                                },
-                                {
-                                    "title": "After Hooks",
-                                    "type": "step",
-                                    "category": "hook",
-                                    "status": "hook",
-                                    "duration": 1,
-                                    "location": ""
-                                }
-                            ]
+                            "status": "skipped"
                         }
                     ],
                     "location": "tests/ebooks/smokeTests.spec.js:0:0"
@@ -832,12 +694,12 @@
                             "expectedStatus": "passed",
                             "location": "tests/ebooks/smokeTests.spec.js:10:5",
                             "timestamps": [
-                                1680886061062,
-                                1680886065204,
-                                1680886065563,
-                                1680886069075
+                                1680886734284,
+                                1680886737991,
+                                1680886738370,
+                                1680886742006
                             ],
-                            "duration": 8013,
+                            "duration": 7722,
                             "timeout": 30000,
                             "attachments": [
                                 {
@@ -868,7 +730,7 @@
                                     "type": "step",
                                     "category": "hook",
                                     "status": "hook",
-                                    "duration": 1299,
+                                    "duration": 1436,
                                     "location": "",
                                     "subs": [
                                         {
@@ -876,7 +738,7 @@
                                             "type": "step",
                                             "category": "pw:api",
                                             "status": "pw:api",
-                                            "duration": 647,
+                                            "duration": 661,
                                             "location": ""
                                         }
                                     ]
@@ -886,7 +748,7 @@
                                     "type": "step",
                                     "category": "pw:api",
                                     "status": "pw:api",
-                                    "duration": 2186,
+                                    "duration": 1236,
                                     "location": "tests/ebooks/smokeTests.spec.js:12:14"
                                 },
                                 {
@@ -894,7 +756,7 @@
                                     "type": "step",
                                     "category": "hook",
                                     "status": "hook",
-                                    "duration": 654,
+                                    "duration": 1031,
                                     "location": "",
                                     "subs": [
                                         {
@@ -902,7 +764,7 @@
                                             "type": "step",
                                             "category": "hook",
                                             "status": "hook",
-                                            "duration": 99,
+                                            "duration": 94,
                                             "location": "",
                                             "subs": [
                                                 {
@@ -910,7 +772,7 @@
                                                     "type": "step",
                                                     "category": "pw:api",
                                                     "status": "pw:api",
-                                                    "duration": 95,
+                                                    "duration": 90,
                                                     "location": ""
                                                 }
                                             ]
@@ -920,7 +782,7 @@
                                             "type": "step",
                                             "category": "pw:api",
                                             "status": "pw:api",
-                                            "duration": 22,
+                                            "duration": 20,
                                             "location": ""
                                         }
                                     ]
@@ -936,7 +798,7 @@
                                     "type": "step",
                                     "category": "hook",
                                     "status": "hook",
-                                    "duration": 1183,
+                                    "duration": 1326,
                                     "location": "",
                                     "subs": [
                                         {
@@ -944,7 +806,7 @@
                                             "type": "step",
                                             "category": "pw:api",
                                             "status": "pw:api",
-                                            "duration": 564,
+                                            "duration": 662,
                                             "location": ""
                                         }
                                     ]
@@ -954,7 +816,7 @@
                                     "type": "step",
                                     "category": "pw:api",
                                     "status": "pw:api",
-                                    "duration": 1269,
+                                    "duration": 1505,
                                     "location": "tests/ebooks/smokeTests.spec.js:12:14"
                                 },
                                 {
@@ -962,7 +824,7 @@
                                     "type": "step",
                                     "category": "hook",
                                     "status": "hook",
-                                    "duration": 1056,
+                                    "duration": 800,
                                     "location": "",
                                     "subs": [
                                         {
@@ -970,7 +832,7 @@
                                             "type": "step",
                                             "category": "hook",
                                             "status": "hook",
-                                            "duration": 104,
+                                            "duration": 118,
                                             "location": "",
                                             "subs": [
                                                 {
@@ -978,7 +840,7 @@
                                                     "type": "step",
                                                     "category": "pw:api",
                                                     "status": "pw:api",
-                                                    "duration": 103,
+                                                    "duration": 116,
                                                     "location": ""
                                                 }
                                             ]
@@ -988,7 +850,7 @@
                                             "type": "step",
                                             "category": "pw:api",
                                             "status": "pw:api",
-                                            "duration": 69,
+                                            "duration": 19,
                                             "location": ""
                                         }
                                     ]
@@ -999,158 +861,48 @@
                         {
                             "title": "Failed @nrt",
                             "type": "case",
-                            "caseType": "failed",
+                            "caseType": "skipped",
                             "caseId": "e74a12f540d0a49bc87a",
-                            "ok": false,
-                            "outcome": "unexpected",
-                            "expectedStatus": "passed",
-                            "location": "tests/ebooks/smokeTests.spec.js:41:5",
+                            "ok": true,
+                            "outcome": "skipped",
+                            "expectedStatus": "skipped",
+                            "location": "tests/ebooks/smokeTests.spec.js:41:6",
                             "timestamps": [
-                                1680886069435,
-                                1680886069463,
-                                1680886069821,
-                                1680886069861
+                                1680886742007,
+                                1680886742007
                             ],
-                            "duration": 426,
+                            "duration": 0,
+                            "annotations": [
+                                {
+                                    "type": "skip"
+                                }
+                            ],
                             "timeout": 30000,
-                            "attachments": [
-                                {
-                                    "name": "trace",
-                                    "path": "ebooks-smokeTests-Failed-nrt-firefox-retry1/trace.zip",
-                                    "contentType": "application/zip"
-                                }
-                            ],
-                            "retry": 1,
-                            "status": "failed",
-                            "subs": [
-                                {
-                                    "title": "Before Hooks",
-                                    "type": "step",
-                                    "category": "hook",
-                                    "status": "hook",
-                                    "duration": 7,
-                                    "location": ""
-                                },
-                                {
-                                    "title": "expect.toBeLessThanOrEqual",
-                                    "type": "step",
-                                    "category": "expect",
-                                    "status": "expect",
-                                    "duration": 2,
-                                    "location": "tests/ebooks/smokeTests.spec.js:43:13",
-                                    "errors": [
-                                        "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBeLessThanOrEqual\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m\n\nExpected: <= \u001b[32m1\u001b[39m\nReceived:    \u001b[31m2\u001b[39m\n\n  41 | test('Failed @nrt', async () => {\n  42 |   const x = 2;\n> 43 |   expect(x).toBeLessThanOrEqual(1);\n     |             ^\n\n    at /home/runner/work/react-rent-feed/react-rent-feed/tests/ebooks/smokeTests.spec.js:43:13"
-                                    ],
-                                    "numErrors": 1
-                                },
-                                {
-                                    "title": "After Hooks",
-                                    "type": "step",
-                                    "category": "hook",
-                                    "status": "hook",
-                                    "duration": 15,
-                                    "location": "",
-                                    "subs": [
-                                        {
-                                            "title": "Screenshot on failure",
-                                            "type": "step",
-                                            "category": "hook",
-                                            "status": "hook",
-                                            "duration": 0,
-                                            "location": ""
-                                        }
-                                    ]
-                                },
-                                {
-                                    "title": "Retry #1",
-                                    "type": "step",
-                                    "status": "retry",
-                                    "retry": 1
-                                },
-                                {
-                                    "title": "Before Hooks",
-                                    "type": "step",
-                                    "category": "hook",
-                                    "status": "hook",
-                                    "duration": 7,
-                                    "location": ""
-                                },
-                                {
-                                    "title": "expect.toBeLessThanOrEqual",
-                                    "type": "step",
-                                    "category": "expect",
-                                    "status": "expect",
-                                    "duration": 3,
-                                    "location": "tests/ebooks/smokeTests.spec.js:43:13",
-                                    "errors": [
-                                        "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBeLessThanOrEqual\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m\n\nExpected: <= \u001b[32m1\u001b[39m\nReceived:    \u001b[31m2\u001b[39m\n\n  41 | test('Failed @nrt', async () => {\n  42 |   const x = 2;\n> 43 |   expect(x).toBeLessThanOrEqual(1);\n     |             ^\n\n    at /home/runner/work/react-rent-feed/react-rent-feed/tests/ebooks/smokeTests.spec.js:43:13"
-                                    ],
-                                    "numErrors": 1
-                                },
-                                {
-                                    "title": "After Hooks",
-                                    "type": "step",
-                                    "category": "hook",
-                                    "status": "hook",
-                                    "duration": 28,
-                                    "location": "",
-                                    "subs": [
-                                        {
-                                            "title": "Screenshot on failure",
-                                            "type": "step",
-                                            "category": "hook",
-                                            "status": "hook",
-                                            "duration": 0,
-                                            "location": ""
-                                        }
-                                    ]
-                                }
-                            ],
-                            "numErrors": 2
+                            "retry": 0,
+                            "status": "skipped"
                         },
                         {
                             "title": "Pass @nrt",
                             "type": "case",
-                            "caseType": "passed",
+                            "caseType": "skipped",
                             "caseId": "73134eb2fe6500db730f",
                             "ok": true,
-                            "outcome": "expected",
-                            "expectedStatus": "passed",
-                            "location": "tests/ebooks/smokeTests.spec.js:46:5",
+                            "outcome": "skipped",
+                            "expectedStatus": "skipped",
+                            "location": "tests/ebooks/smokeTests.spec.js:46:6",
                             "timestamps": [
-                                1680886070220,
-                                1680886070232
+                                1680886742007,
+                                1680886742007
                             ],
-                            "duration": 12,
+                            "duration": 0,
+                            "annotations": [
+                                {
+                                    "type": "skip"
+                                }
+                            ],
                             "timeout": 30000,
                             "retry": 0,
-                            "status": "passed",
-                            "subs": [
-                                {
-                                    "title": "Before Hooks",
-                                    "type": "step",
-                                    "category": "hook",
-                                    "status": "hook",
-                                    "duration": 8,
-                                    "location": ""
-                                },
-                                {
-                                    "title": "expect.toBeLessThanOrEqual",
-                                    "type": "step",
-                                    "category": "expect",
-                                    "status": "expect",
-                                    "duration": 1,
-                                    "location": "tests/ebooks/smokeTests.spec.js:48:13"
-                                },
-                                {
-                                    "title": "After Hooks",
-                                    "type": "step",
-                                    "category": "hook",
-                                    "status": "hook",
-                                    "duration": 1,
-                                    "location": ""
-                                }
-                            ]
+                            "status": "skipped"
                         }
                     ],
                     "location": "tests/ebooks/smokeTests.spec.js:0:0"
@@ -1180,12 +932,12 @@
                             "expectedStatus": "passed",
                             "location": "tests/ebooks/smokeTests.spec.js:10:5",
                             "timestamps": [
-                                1680886070603,
-                                1680886074975,
-                                1680886075333,
-                                1680886077422
+                                1680886742382,
+                                1680886746728,
+                                1680886747110,
+                                1680886750131
                             ],
-                            "duration": 6819,
+                            "duration": 7749,
                             "timeout": 30000,
                             "attachments": [
                                 {
@@ -1216,7 +968,7 @@
                                     "type": "step",
                                     "category": "hook",
                                     "status": "hook",
-                                    "duration": 1854,
+                                    "duration": 1986,
                                     "location": "",
                                     "subs": [
                                         {
@@ -1224,7 +976,7 @@
                                             "type": "step",
                                             "category": "pw:api",
                                             "status": "pw:api",
-                                            "duration": 284,
+                                            "duration": 476,
                                             "location": ""
                                         }
                                     ]
@@ -1234,7 +986,7 @@
                                     "type": "step",
                                     "category": "pw:api",
                                     "status": "pw:api",
-                                    "duration": 1162,
+                                    "duration": 1421,
                                     "location": "tests/ebooks/smokeTests.spec.js:12:14"
                                 },
                                 {
@@ -1242,7 +994,7 @@
                                     "type": "step",
                                     "category": "hook",
                                     "status": "hook",
-                                    "duration": 1353,
+                                    "duration": 936,
                                     "location": "",
                                     "subs": [
                                         {
@@ -1250,7 +1002,7 @@
                                             "type": "step",
                                             "category": "hook",
                                             "status": "hook",
-                                            "duration": 354,
+                                            "duration": 202,
                                             "location": "",
                                             "subs": [
                                                 {
@@ -1258,7 +1010,7 @@
                                                     "type": "step",
                                                     "category": "pw:api",
                                                     "status": "pw:api",
-                                                    "duration": 350,
+                                                    "duration": 198,
                                                     "location": ""
                                                 }
                                             ]
@@ -1268,7 +1020,7 @@
                                             "type": "step",
                                             "category": "pw:api",
                                             "status": "pw:api",
-                                            "duration": 25,
+                                            "duration": 15,
                                             "location": ""
                                         }
                                     ]
@@ -1284,7 +1036,7 @@
                                     "type": "step",
                                     "category": "hook",
                                     "status": "hook",
-                                    "duration": 643,
+                                    "duration": 717,
                                     "location": "",
                                     "subs": [
                                         {
@@ -1292,7 +1044,7 @@
                                             "type": "step",
                                             "category": "pw:api",
                                             "status": "pw:api",
-                                            "duration": 128,
+                                            "duration": 138,
                                             "location": ""
                                         }
                                     ]
@@ -1302,7 +1054,7 @@
                                     "type": "step",
                                     "category": "pw:api",
                                     "status": "pw:api",
-                                    "duration": 1019,
+                                    "duration": 1582,
                                     "location": "tests/ebooks/smokeTests.spec.js:12:14"
                                 },
                                 {
@@ -1310,7 +1062,7 @@
                                     "type": "step",
                                     "category": "hook",
                                     "status": "hook",
-                                    "duration": 423,
+                                    "duration": 718,
                                     "location": "",
                                     "subs": [
                                         {
@@ -1318,7 +1070,7 @@
                                             "type": "step",
                                             "category": "hook",
                                             "status": "hook",
-                                            "duration": 227,
+                                            "duration": 288,
                                             "location": "",
                                             "subs": [
                                                 {
@@ -1326,7 +1078,7 @@
                                                     "type": "step",
                                                     "category": "pw:api",
                                                     "status": "pw:api",
-                                                    "duration": 223,
+                                                    "duration": 274,
                                                     "location": ""
                                                 }
                                             ]
@@ -1336,7 +1088,7 @@
                                             "type": "step",
                                             "category": "pw:api",
                                             "status": "pw:api",
-                                            "duration": 3,
+                                            "duration": 10,
                                             "location": ""
                                         }
                                     ]
@@ -1347,158 +1099,48 @@
                         {
                             "title": "Failed @nrt",
                             "type": "case",
-                            "caseType": "failed",
+                            "caseType": "skipped",
                             "caseId": "fc79cd2641c490784372",
-                            "ok": false,
-                            "outcome": "unexpected",
-                            "expectedStatus": "passed",
-                            "location": "tests/ebooks/smokeTests.spec.js:41:5",
+                            "ok": true,
+                            "outcome": "skipped",
+                            "expectedStatus": "skipped",
+                            "location": "tests/ebooks/smokeTests.spec.js:41:6",
                             "timestamps": [
-                                1680886077778,
-                                1680886077802,
-                                1680886078167,
-                                1680886078199
+                                1680886750131,
+                                1680886750131
                             ],
-                            "duration": 421,
+                            "duration": 0,
+                            "annotations": [
+                                {
+                                    "type": "skip"
+                                }
+                            ],
                             "timeout": 30000,
-                            "attachments": [
-                                {
-                                    "name": "trace",
-                                    "path": "ebooks-smokeTests-Failed-nrt-webkit-retry1/trace.zip",
-                                    "contentType": "application/zip"
-                                }
-                            ],
-                            "retry": 1,
-                            "status": "failed",
-                            "subs": [
-                                {
-                                    "title": "Before Hooks",
-                                    "type": "step",
-                                    "category": "hook",
-                                    "status": "hook",
-                                    "duration": 8,
-                                    "location": ""
-                                },
-                                {
-                                    "title": "expect.toBeLessThanOrEqual",
-                                    "type": "step",
-                                    "category": "expect",
-                                    "status": "expect",
-                                    "duration": 3,
-                                    "location": "tests/ebooks/smokeTests.spec.js:43:13",
-                                    "errors": [
-                                        "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBeLessThanOrEqual\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m\n\nExpected: <= \u001b[32m1\u001b[39m\nReceived:    \u001b[31m2\u001b[39m\n\n  41 | test('Failed @nrt', async () => {\n  42 |   const x = 2;\n> 43 |   expect(x).toBeLessThanOrEqual(1);\n     |             ^\n\n    at /home/runner/work/react-rent-feed/react-rent-feed/tests/ebooks/smokeTests.spec.js:43:13"
-                                    ],
-                                    "numErrors": 1
-                                },
-                                {
-                                    "title": "After Hooks",
-                                    "type": "step",
-                                    "category": "hook",
-                                    "status": "hook",
-                                    "duration": 7,
-                                    "location": "",
-                                    "subs": [
-                                        {
-                                            "title": "Screenshot on failure",
-                                            "type": "step",
-                                            "category": "hook",
-                                            "status": "hook",
-                                            "duration": 0,
-                                            "location": ""
-                                        }
-                                    ]
-                                },
-                                {
-                                    "title": "Retry #1",
-                                    "type": "step",
-                                    "status": "retry",
-                                    "retry": 1
-                                },
-                                {
-                                    "title": "Before Hooks",
-                                    "type": "step",
-                                    "category": "hook",
-                                    "status": "hook",
-                                    "duration": 7,
-                                    "location": ""
-                                },
-                                {
-                                    "title": "expect.toBeLessThanOrEqual",
-                                    "type": "step",
-                                    "category": "expect",
-                                    "status": "expect",
-                                    "duration": 3,
-                                    "location": "tests/ebooks/smokeTests.spec.js:43:13",
-                                    "errors": [
-                                        "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBeLessThanOrEqual\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m\n\nExpected: <= \u001b[32m1\u001b[39m\nReceived:    \u001b[31m2\u001b[39m\n\n  41 | test('Failed @nrt', async () => {\n  42 |   const x = 2;\n> 43 |   expect(x).toBeLessThanOrEqual(1);\n     |             ^\n\n    at /home/runner/work/react-rent-feed/react-rent-feed/tests/ebooks/smokeTests.spec.js:43:13"
-                                    ],
-                                    "numErrors": 1
-                                },
-                                {
-                                    "title": "After Hooks",
-                                    "type": "step",
-                                    "category": "hook",
-                                    "status": "hook",
-                                    "duration": 19,
-                                    "location": "",
-                                    "subs": [
-                                        {
-                                            "title": "Screenshot on failure",
-                                            "type": "step",
-                                            "category": "hook",
-                                            "status": "hook",
-                                            "duration": 0,
-                                            "location": ""
-                                        }
-                                    ]
-                                }
-                            ],
-                            "numErrors": 2
+                            "retry": 0,
+                            "status": "skipped"
                         },
                         {
                             "title": "Pass @nrt",
                             "type": "case",
-                            "caseType": "passed",
+                            "caseType": "skipped",
                             "caseId": "4a44fe057d17d0a57eff",
                             "ok": true,
-                            "outcome": "expected",
-                            "expectedStatus": "passed",
-                            "location": "tests/ebooks/smokeTests.spec.js:46:5",
+                            "outcome": "skipped",
+                            "expectedStatus": "skipped",
+                            "location": "tests/ebooks/smokeTests.spec.js:46:6",
                             "timestamps": [
-                                1680886078557,
-                                1680886078568
+                                1680886750131,
+                                1680886750131
                             ],
-                            "duration": 11,
+                            "duration": 0,
+                            "annotations": [
+                                {
+                                    "type": "skip"
+                                }
+                            ],
                             "timeout": 30000,
                             "retry": 0,
-                            "status": "passed",
-                            "subs": [
-                                {
-                                    "title": "Before Hooks",
-                                    "type": "step",
-                                    "category": "hook",
-                                    "status": "hook",
-                                    "duration": 7,
-                                    "location": ""
-                                },
-                                {
-                                    "title": "expect.toBeLessThanOrEqual",
-                                    "type": "step",
-                                    "category": "expect",
-                                    "status": "expect",
-                                    "duration": 1,
-                                    "location": "tests/ebooks/smokeTests.spec.js:48:13"
-                                },
-                                {
-                                    "title": "After Hooks",
-                                    "type": "step",
-                                    "category": "hook",
-                                    "status": "hook",
-                                    "duration": 1,
-                                    "location": ""
-                                }
-                            ]
+                            "status": "skipped"
                         }
                     ],
                     "location": "tests/ebooks/smokeTests.spec.js:0:0"
@@ -1528,12 +1170,12 @@
                             "expectedStatus": "passed",
                             "location": "tests/ebooks/smokeTests.spec.js:10:5",
                             "timestamps": [
-                                1680886078942,
-                                1680886088372,
-                                1680886088729,
-                                1680886090272
+                                1680886750538,
+                                1680886762682,
+                                1680886763054,
+                                1680886764533
                             ],
-                            "duration": 11330,
+                            "duration": 13995,
                             "timeout": 30000,
                             "attachments": [
                                 {
@@ -1564,7 +1206,7 @@
                                     "type": "step",
                                     "category": "hook",
                                     "status": "hook",
-                                    "duration": 7366,
+                                    "duration": 9759,
                                     "location": "",
                                     "subs": [
                                         {
@@ -1572,7 +1214,7 @@
                                             "type": "step",
                                             "category": "pw:api",
                                             "status": "pw:api",
-                                            "duration": 3974,
+                                            "duration": 5084,
                                             "location": ""
                                         }
                                     ]
@@ -1582,7 +1224,7 @@
                                     "type": "step",
                                     "category": "pw:api",
                                     "status": "pw:api",
-                                    "duration": 1844,
+                                    "duration": 2177,
                                     "location": "tests/ebooks/smokeTests.spec.js:12:14"
                                 },
                                 {
@@ -1590,7 +1232,7 @@
                                     "type": "step",
                                     "category": "hook",
                                     "status": "hook",
-                                    "duration": 215,
+                                    "duration": 204,
                                     "location": "",
                                     "subs": [
                                         {
@@ -1598,7 +1240,7 @@
                                             "type": "step",
                                             "category": "hook",
                                             "status": "hook",
-                                            "duration": 117,
+                                            "duration": 93,
                                             "location": "",
                                             "subs": [
                                                 {
@@ -1606,7 +1248,7 @@
                                                     "type": "step",
                                                     "category": "pw:api",
                                                     "status": "pw:api",
-                                                    "duration": 114,
+                                                    "duration": 89,
                                                     "location": ""
                                                 }
                                             ]
@@ -1616,7 +1258,7 @@
                                             "type": "step",
                                             "category": "pw:api",
                                             "status": "pw:api",
-                                            "duration": 39,
+                                            "duration": 40,
                                             "location": ""
                                         }
                                     ]
@@ -1632,7 +1274,7 @@
                                     "type": "step",
                                     "category": "hook",
                                     "status": "hook",
-                                    "duration": 161,
+                                    "duration": 190,
                                     "location": "",
                                     "subs": [
                                         {
@@ -1640,7 +1282,7 @@
                                             "type": "step",
                                             "category": "pw:api",
                                             "status": "pw:api",
-                                            "duration": 46,
+                                            "duration": 51,
                                             "location": ""
                                         }
                                     ]
@@ -1650,7 +1292,7 @@
                                     "type": "step",
                                     "category": "pw:api",
                                     "status": "pw:api",
-                                    "duration": 1106,
+                                    "duration": 1044,
                                     "location": "tests/ebooks/smokeTests.spec.js:12:14"
                                 },
                                 {
@@ -1658,7 +1300,7 @@
                                     "type": "step",
                                     "category": "hook",
                                     "status": "hook",
-                                    "duration": 272,
+                                    "duration": 240,
                                     "location": "",
                                     "subs": [
                                         {
@@ -1666,7 +1308,7 @@
                                             "type": "step",
                                             "category": "hook",
                                             "status": "hook",
-                                            "duration": 121,
+                                            "duration": 93,
                                             "location": "",
                                             "subs": [
                                                 {
@@ -1674,7 +1316,7 @@
                                                     "type": "step",
                                                     "category": "pw:api",
                                                     "status": "pw:api",
-                                                    "duration": 119,
+                                                    "duration": 91,
                                                     "location": ""
                                                 }
                                             ]
@@ -1684,7 +1326,7 @@
                                             "type": "step",
                                             "category": "pw:api",
                                             "status": "pw:api",
-                                            "duration": 13,
+                                            "duration": 5,
                                             "location": ""
                                         }
                                     ]
@@ -1695,158 +1337,48 @@
                         {
                             "title": "Failed @nrt",
                             "type": "case",
-                            "caseType": "failed",
+                            "caseType": "skipped",
                             "caseId": "4f72a96b7e50b51727e4",
-                            "ok": false,
-                            "outcome": "unexpected",
-                            "expectedStatus": "passed",
-                            "location": "tests/ebooks/smokeTests.spec.js:41:5",
+                            "ok": true,
+                            "outcome": "skipped",
+                            "expectedStatus": "skipped",
+                            "location": "tests/ebooks/smokeTests.spec.js:41:6",
                             "timestamps": [
-                                1680886090629,
-                                1680886090650,
-                                1680886091013,
-                                1680886091056
+                                1680886764533,
+                                1680886764533
                             ],
-                            "duration": 427,
+                            "duration": 0,
+                            "annotations": [
+                                {
+                                    "type": "skip"
+                                }
+                            ],
                             "timeout": 30000,
-                            "attachments": [
-                                {
-                                    "name": "trace",
-                                    "path": "ebooks-smokeTests-Failed-nrt-Microsoft-Edge-retry1/trace.zip",
-                                    "contentType": "application/zip"
-                                }
-                            ],
-                            "retry": 1,
-                            "status": "failed",
-                            "subs": [
-                                {
-                                    "title": "Before Hooks",
-                                    "type": "step",
-                                    "category": "hook",
-                                    "status": "hook",
-                                    "duration": 7,
-                                    "location": ""
-                                },
-                                {
-                                    "title": "expect.toBeLessThanOrEqual",
-                                    "type": "step",
-                                    "category": "expect",
-                                    "status": "expect",
-                                    "duration": 2,
-                                    "location": "tests/ebooks/smokeTests.spec.js:43:13",
-                                    "errors": [
-                                        "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBeLessThanOrEqual\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m\n\nExpected: <= \u001b[32m1\u001b[39m\nReceived:    \u001b[31m2\u001b[39m\n\n  41 | test('Failed @nrt', async () => {\n  42 |   const x = 2;\n> 43 |   expect(x).toBeLessThanOrEqual(1);\n     |             ^\n\n    at /home/runner/work/react-rent-feed/react-rent-feed/tests/ebooks/smokeTests.spec.js:43:13"
-                                    ],
-                                    "numErrors": 1
-                                },
-                                {
-                                    "title": "After Hooks",
-                                    "type": "step",
-                                    "category": "hook",
-                                    "status": "hook",
-                                    "duration": 8,
-                                    "location": "",
-                                    "subs": [
-                                        {
-                                            "title": "Screenshot on failure",
-                                            "type": "step",
-                                            "category": "hook",
-                                            "status": "hook",
-                                            "duration": 0,
-                                            "location": ""
-                                        }
-                                    ]
-                                },
-                                {
-                                    "title": "Retry #1",
-                                    "type": "step",
-                                    "status": "retry",
-                                    "retry": 1
-                                },
-                                {
-                                    "title": "Before Hooks",
-                                    "type": "step",
-                                    "category": "hook",
-                                    "status": "hook",
-                                    "duration": 8,
-                                    "location": ""
-                                },
-                                {
-                                    "title": "expect.toBeLessThanOrEqual",
-                                    "type": "step",
-                                    "category": "expect",
-                                    "status": "expect",
-                                    "duration": 3,
-                                    "location": "tests/ebooks/smokeTests.spec.js:43:13",
-                                    "errors": [
-                                        "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBeLessThanOrEqual\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m\n\nExpected: <= \u001b[32m1\u001b[39m\nReceived:    \u001b[31m2\u001b[39m\n\n  41 | test('Failed @nrt', async () => {\n  42 |   const x = 2;\n> 43 |   expect(x).toBeLessThanOrEqual(1);\n     |             ^\n\n    at /home/runner/work/react-rent-feed/react-rent-feed/tests/ebooks/smokeTests.spec.js:43:13"
-                                    ],
-                                    "numErrors": 1
-                                },
-                                {
-                                    "title": "After Hooks",
-                                    "type": "step",
-                                    "category": "hook",
-                                    "status": "hook",
-                                    "duration": 30,
-                                    "location": "",
-                                    "subs": [
-                                        {
-                                            "title": "Screenshot on failure",
-                                            "type": "step",
-                                            "category": "hook",
-                                            "status": "hook",
-                                            "duration": 0,
-                                            "location": ""
-                                        }
-                                    ]
-                                }
-                            ],
-                            "numErrors": 2
+                            "retry": 0,
+                            "status": "skipped"
                         },
                         {
                             "title": "Pass @nrt",
                             "type": "case",
-                            "caseType": "passed",
+                            "caseType": "skipped",
                             "caseId": "039f0b522d7665ff134c",
                             "ok": true,
-                            "outcome": "expected",
-                            "expectedStatus": "passed",
-                            "location": "tests/ebooks/smokeTests.spec.js:46:5",
+                            "outcome": "skipped",
+                            "expectedStatus": "skipped",
+                            "location": "tests/ebooks/smokeTests.spec.js:46:6",
                             "timestamps": [
-                                1680886091414,
-                                1680886091426
+                                1680886764533,
+                                1680886764533
                             ],
-                            "duration": 12,
+                            "duration": 0,
+                            "annotations": [
+                                {
+                                    "type": "skip"
+                                }
+                            ],
                             "timeout": 30000,
                             "retry": 0,
-                            "status": "passed",
-                            "subs": [
-                                {
-                                    "title": "Before Hooks",
-                                    "type": "step",
-                                    "category": "hook",
-                                    "status": "hook",
-                                    "duration": 7,
-                                    "location": ""
-                                },
-                                {
-                                    "title": "expect.toBeLessThanOrEqual",
-                                    "type": "step",
-                                    "category": "expect",
-                                    "status": "expect",
-                                    "duration": 0,
-                                    "location": "tests/ebooks/smokeTests.spec.js:48:13"
-                                },
-                                {
-                                    "title": "After Hooks",
-                                    "type": "step",
-                                    "category": "hook",
-                                    "status": "hook",
-                                    "duration": 1,
-                                    "location": ""
-                                }
-                            ]
+                            "status": "skipped"
                         }
                     ],
                     "location": "tests/ebooks/smokeTests.spec.js:0:0"
@@ -1884,12 +1416,12 @@
         },
         "passed": {
             "name": "Passed",
-            "value": 4,
+            "value": 0,
             "color": "green",
             "bg": "#22C45E",
             "nav": true,
             "id": "passed",
-            "percent": "33.3%"
+            "percent": "0.0%"
         },
         "flaky": {
             "name": "Flaky",
@@ -1902,25 +1434,25 @@
         },
         "skipped": {
             "name": "Skipped",
-            "value": 0,
+            "value": 8,
             "color": "gray",
             "bg": "#94A3B7",
             "nav": true,
             "id": "skipped",
-            "percent": "0.0%"
+            "percent": "66.7%"
         },
         "failed": {
             "name": "Failed",
-            "value": 8,
+            "value": 4,
             "color": "#d00",
             "bg": "#EE4444",
             "nav": true,
             "id": "failed",
-            "percent": "66.7%"
+            "percent": "33.3%"
         },
         "steps": {
             "name": "Steps",
-            "value": 108,
+            "value": 60,
             "id": "steps"
         },
         "suites": {
@@ -1954,12 +1486,12 @@
         },
         "retries": {
             "name": "Retries",
-            "value": 8,
+            "value": 4,
             "id": "retries"
         },
         "errors": {
             "name": "Errors",
-            "value": 16,
+            "value": 8,
             "id": "errors"
         },
         "logs": {
@@ -1969,7 +1501,7 @@
         },
         "attachments": {
             "name": "Attachments",
-            "value": 16,
+            "value": 12,
             "id": "attachments"
         }
     },
@@ -1978,6 +1510,6 @@
         "width": 360,
         "height": 150,
         "margin": 10,
-        "svg": "<svg viewBox=\"0 0 360 150\" width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><g class=\"mcr-pie-path-passed\"><path d=\"M75,75 L75,10 A65,65 0 0 1 131.4,107.4 z\" fill=\"green\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"8.7,-5\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g class=\"mcr-pie-path-flaky\"><path d=\"\" fill=\"orange\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"8.7,5\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g class=\"mcr-pie-path-skipped\"><path d=\"\" fill=\"gray\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"8.7,5\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g class=\"mcr-pie-path-failed\"><path d=\"M75,75 L131.4,107.4 A65,65 0 1 1 75,10 z\" fill=\"#d00\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"-8.7,5\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g transform=\"translate(160 10)\"><g class=\"mcr-pie-legend-passed\" transform=\"translate(0 0)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"green\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Passed</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">4</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">33.3%</text></g><g class=\"mcr-pie-legend-flaky\" transform=\"translate(0 32)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"orange\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Flaky</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">0</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">0.0%</text></g><g class=\"mcr-pie-legend-skipped\" transform=\"translate(0 64)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"gray\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Skipped</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">0</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">0.0%</text></g><g class=\"mcr-pie-legend-failed\" transform=\"translate(0 96)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"#d00\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Failed</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">8</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">66.7%</text></g></g></svg>"
+        "svg": "<svg viewBox=\"0 0 360 150\" width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><g class=\"mcr-pie-path-passed\"><path d=\"\" fill=\"green\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"0,-10\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g class=\"mcr-pie-path-flaky\"><path d=\"\" fill=\"orange\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"0,-10\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g class=\"mcr-pie-path-skipped\"><path d=\"M75,75 L75,10 A65,65 0 1 1 18.6,107.4 z\" fill=\"gray\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"8.7,5\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g class=\"mcr-pie-path-failed\"><path d=\"M75,75 L18.6,107.4 A65,65 0 0 1 75,10 z\" fill=\"#d00\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"-8.7,-5\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g transform=\"translate(160 10)\"><g class=\"mcr-pie-legend-passed\" transform=\"translate(0 0)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"green\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Passed</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">0</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">0.0%</text></g><g class=\"mcr-pie-legend-flaky\" transform=\"translate(0 32)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"orange\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Flaky</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">0</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">0.0%</text></g><g class=\"mcr-pie-legend-skipped\" transform=\"translate(0 64)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"gray\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Skipped</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">8</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">66.7%</text></g><g class=\"mcr-pie-legend-failed\" transform=\"translate(0 96)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"#d00\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Failed</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">4</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">33.3%</text></g></g></svg>"
     }
 }

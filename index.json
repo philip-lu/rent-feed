@@ -1,9 +1,9 @@
 {
     "name": "My Test Report",
-    "date": 1680883040760,
-    "dateH": "4/7/2023, 3:57:20 PM",
-    "duration": 10195,
-    "durationH": "10.2s",
+    "date": 1680883745664,
+    "dateH": "4/7/2023, 4:09:05 PM",
+    "duration": 41676,
+    "durationH": "41.7s",
     "cwd": "/home/runner/work/react-rent-feed/react-rent-feed",
     "outputFile": "./monocart-results/index.html",
     "outputDir": "./monocart-results",
@@ -12,8 +12,8 @@
         "cpu": {
             "color": "#117DBB",
             "count": 2,
-            "model": "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
-            "speed": 2095
+            "model": "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+            "speed": 2793
         },
         "mem": {
             "color": "#8B12AE",
@@ -24,66 +24,201 @@
         "release": "5.15.0-1035-azure",
         "type": "Linux",
         "version": "#42-Ubuntu SMP Tue Feb 28 19:41:23 UTC 2023",
-        "uptime": 437.06,
-        "hostname": "fv-az487-970",
+        "uptime": 257.31,
+        "hostname": "fv-az363-350",
         "homedir": "/home/runner",
         "tmpdir": "/tmp",
-        "pid": 3352,
-        "timestampStart": 1680883040760,
+        "pid": 4553,
+        "timestampStart": 1680883745664,
         "ticks": [
             {
                 "cpu": {
-                    "percent": 19.57
+                    "percent": 9.55
                 },
                 "mem": {
-                    "free": 6109560832
+                    "free": 6104260608
                 },
-                "timestamp": 1680883042765
+                "timestamp": 1680883747668
             },
             {
                 "cpu": {
-                    "percent": 23.87
+                    "percent": 63.45
                 },
                 "mem": {
-                    "free": 6076923904
+                    "free": 6101901312
                 },
-                "timestamp": 1680883044769
+                "timestamp": 1680883749670
             },
             {
                 "cpu": {
-                    "percent": 64.14
+                    "percent": 58.59
                 },
                 "mem": {
-                    "free": 6098792448
+                    "free": 6187577344
                 },
-                "timestamp": 1680883046770
+                "timestamp": 1680883751669
             },
             {
                 "cpu": {
-                    "percent": 41.71
+                    "percent": 67.74
                 },
                 "mem": {
-                    "free": 6058946560
+                    "free": 5993140224
                 },
-                "timestamp": 1680883048773
+                "timestamp": 1680883753670
             },
             {
                 "cpu": {
-                    "percent": 11.34
+                    "percent": 47.47
                 },
                 "mem": {
-                    "free": 6181875712
+                    "free": 6009982976
                 },
-                "timestamp": 1680883050774
+                "timestamp": 1680883755671
             },
             {
                 "cpu": {
-                    "percent": 3.5
+                    "percent": 76.65
                 },
                 "mem": {
-                    "free": 6181875712
+                    "free": 6008381440
                 },
-                "timestamp": 1680883050946
+                "timestamp": 1680883757673
+            },
+            {
+                "cpu": {
+                    "percent": 71.21
+                },
+                "mem": {
+                    "free": 5887021056
+                },
+                "timestamp": 1680883759675
+            },
+            {
+                "cpu": {
+                    "percent": 68.84
+                },
+                "mem": {
+                    "free": 6198046720
+                },
+                "timestamp": 1680883761675
+            },
+            {
+                "cpu": {
+                    "percent": 33.1
+                },
+                "mem": {
+                    "free": 6050521088
+                },
+                "timestamp": 1680883763677
+            },
+            {
+                "cpu": {
+                    "percent": 1.98
+                },
+                "mem": {
+                    "free": 5979824128
+                },
+                "timestamp": 1680883765679
+            },
+            {
+                "cpu": {
+                    "percent": 69.85
+                },
+                "mem": {
+                    "free": 6016352256
+                },
+                "timestamp": 1680883767680
+            },
+            {
+                "cpu": {
+                    "percent": 61.03
+                },
+                "mem": {
+                    "free": 6212227072
+                },
+                "timestamp": 1680883769681
+            },
+            {
+                "cpu": {
+                    "percent": 1
+                },
+                "mem": {
+                    "free": 6216421376
+                },
+                "timestamp": 1680883771684
+            },
+            {
+                "cpu": {
+                    "percent": 4.94
+                },
+                "mem": {
+                    "free": 6187823104
+                },
+                "timestamp": 1680883773686
+            },
+            {
+                "cpu": {
+                    "percent": 9.23
+                },
+                "mem": {
+                    "free": 6172749824
+                },
+                "timestamp": 1680883775689
+            },
+            {
+                "cpu": {
+                    "percent": 6.78
+                },
+                "mem": {
+                    "free": 6158962688
+                },
+                "timestamp": 1680883777691
+            },
+            {
+                "cpu": {
+                    "percent": 4.9
+                },
+                "mem": {
+                    "free": 6165094400
+                },
+                "timestamp": 1680883779693
+            },
+            {
+                "cpu": {
+                    "percent": 5.45
+                },
+                "mem": {
+                    "free": 6164447232
+                },
+                "timestamp": 1680883781695
+            },
+            {
+                "cpu": {
+                    "percent": 49.36
+                },
+                "mem": {
+                    "free": 6208024576
+                },
+                "timestamp": 1680883783697
+            },
+            {
+                "cpu": {
+                    "percent": 60.51
+                },
+                "mem": {
+                    "free": 6226763776
+                },
+                "timestamp": 1680883785699
+            },
+            {
+                "cpu": {
+                    "percent": 5.97
+                },
+                "mem": {
+                    "free": 6238220288
+                },
+                "timestamp": 1680883787335
             }
         ],
         "workers": 1,
@@ -92,15 +227,141 @@
                 "caseId": "64713fa2b58b4e67de02",
                 "parallelIndex": 0,
                 "workerIndex": 0,
-                "timestamp": 1680883041413,
-                "duration": 4547
+                "timestamp": 1680883746181,
+                "duration": 2814
             },
             {
                 "caseId": "64713fa2b58b4e67de02",
                 "parallelIndex": 0,
                 "workerIndex": 1,
-                "timestamp": 1680883046424,
-                "duration": 3462
+                "timestamp": 1680883749379,
+                "duration": 1430
+            },
+            {
+                "caseId": "f16c853db2baf24f4b72",
+                "parallelIndex": 0,
+                "workerIndex": 2,
+                "timestamp": 1680883751181,
+                "duration": 26
+            },
+            {
+                "caseId": "f16c853db2baf24f4b72",
+                "parallelIndex": 0,
+                "workerIndex": 3,
+                "timestamp": 1680883751582,
+                "duration": 32
+            },
+            {
+                "caseId": "a55c5d86c630e12b5075",
+                "parallelIndex": 0,
+                "workerIndex": 4,
+                "timestamp": 1680883751985,
+                "duration": 15
+            },
+            {
+                "caseId": "b138159abfe57d4a1ccb",
+                "parallelIndex": 0,
+                "workerIndex": 5,
+                "timestamp": 1680883752378,
+                "duration": 3548
+            },
+            {
+                "caseId": "b138159abfe57d4a1ccb",
+                "parallelIndex": 0,
+                "workerIndex": 6,
+                "timestamp": 1680883756302,
+                "duration": 3520
+            },
+            {
+                "caseId": "8ca8921be3ca14dbd73a",
+                "parallelIndex": 0,
+                "workerIndex": 7,
+                "timestamp": 1680883760194,
+                "duration": 28
+            },
+            {
+                "caseId": "8ca8921be3ca14dbd73a",
+                "parallelIndex": 0,
+                "workerIndex": 8,
+                "timestamp": 1680883760594,
+                "duration": 39
+            },
+            {
+                "caseId": "8f17096ed86227e466c0",
+                "parallelIndex": 0,
+                "workerIndex": 9,
+                "timestamp": 1680883761003,
+                "duration": 15
+            },
+            {
+                "caseId": "a028e050f76792fe2a80",
+                "parallelIndex": 0,
+                "workerIndex": 10,
+                "timestamp": 1680883761393,
+                "duration": 4943
+            },
+            {
+                "caseId": "a028e050f76792fe2a80",
+                "parallelIndex": 0,
+                "workerIndex": 11,
+                "timestamp": 1680883766710,
+                "duration": 2193
+            },
+            {
+                "caseId": "a8f59a2a343f7b815e05",
+                "parallelIndex": 0,
+                "workerIndex": 12,
+                "timestamp": 1680883769284,
+                "duration": 26
+            },
+            {
+                "caseId": "a8f59a2a343f7b815e05",
+                "parallelIndex": 0,
+                "workerIndex": 13,
+                "timestamp": 1680883769688,
+                "duration": 39
+            },
+            {
+                "caseId": "6f28def7a8117509c9f9",
+                "parallelIndex": 0,
+                "workerIndex": 14,
+                "timestamp": 1680883770108,
+                "duration": 13
+            },
+            {
+                "caseId": "33a8b474e460e5288d88",
+                "parallelIndex": 0,
+                "workerIndex": 15,
+                "timestamp": 1680883770505,
+                "duration": 12871
+            },
+            {
+                "caseId": "33a8b474e460e5288d88",
+                "parallelIndex": 0,
+                "workerIndex": 16,
+                "timestamp": 1680883783749,
+                "duration": 1309
+            },
+            {
+                "caseId": "6c1a2b1fabe9890a4b26",
+                "parallelIndex": 0,
+                "workerIndex": 17,
+                "timestamp": 1680883785432,
+                "duration": 26
+            },
+            {
+                "caseId": "6c1a2b1fabe9890a4b26",
+                "parallelIndex": 0,
+                "workerIndex": 18,
+                "timestamp": 1680883785833,
+                "duration": 35
+            },
+            {
+                "caseId": "49f8f33376e04deecfe7",
+                "parallelIndex": 0,
+                "workerIndex": 19,
+                "timestamp": 1680883786241,
+                "duration": 15
             }
         ],
         "cwd": "/home/runner/work/react-rent-feed/react-rent-feed",
@@ -109,7 +370,7 @@
         "testDir": "tests",
         "outputFile": "monocart-results/index.html",
         "outputDir": "monocart-results",
-        "timestampEnd": 1680883050955
+        "timestampEnd": 1680883787340
     },
     "trends": [],
     "columns": [
@@ -222,14 +483,14 @@
             "title": "chromium",
             "type": "suite",
             "suiteType": "project",
-            "tests": 1,
+            "tests": 3,
             "subs": [
                 {
                     "title": "ebooks/smokeTests.spec.js",
                     "type": "suite",
                     "suiteType": "file",
                     "suiteId": "a30b647cb49ebab9400f",
-                    "tests": 1,
+                    "tests": 3,
                     "subs": [
                         {
                             "title": "OH-57: Successfully submit the Log In form on the SSO Auth0 @uismoke @allure @nrt",
@@ -241,12 +502,12 @@
                             "expectedStatus": "passed",
                             "location": "tests/ebooks/smokeTests.spec.js:11:5",
                             "timestamps": [
-                                1680883041413,
-                                1680883045960,
-                                1680883046424,
-                                1680883049886
+                                1680883746181,
+                                1680883748995,
+                                1680883749379,
+                                1680883750809
                             ],
-                            "duration": 8473,
+                            "duration": 4628,
                             "timeout": 30000,
                             "attachments": [
                                 {
@@ -297,7 +558,7 @@
                                     "type": "step",
                                     "category": "hook",
                                     "status": "hook",
-                                    "duration": 1145,
+                                    "duration": 338,
                                     "location": "",
                                     "subs": [
                                         {
@@ -305,7 +566,7 @@
                                             "type": "step",
                                             "category": "pw:api",
                                             "status": "pw:api",
-                                            "duration": 63,
+                                            "duration": 37,
                                             "location": ""
                                         }
                                     ]
@@ -315,7 +576,7 @@
                                     "type": "step",
                                     "category": "pw:api",
                                     "status": "pw:api",
-                                    "duration": 3165,
+                                    "duration": 2308,
                                     "location": "tests/ebooks/smokeTests.spec.js:16:14"
                                 },
                                 {
@@ -323,7 +584,7 @@
                                     "type": "step",
                                     "category": "hook",
                                     "status": "hook",
-                                    "duration": 219,
+                                    "duration": 164,
                                     "location": "",
                                     "subs": [
                                         {
@@ -331,7 +592,7 @@
                                             "type": "step",
                                             "category": "hook",
                                             "status": "hook",
-                                            "duration": 156,
+                                            "duration": 108,
                                             "location": "",
                                             "subs": [
                                                 {
@@ -339,7 +600,7 @@
                                                     "type": "step",
                                                     "category": "pw:api",
                                                     "status": "pw:api",
-                                                    "duration": 146,
+                                                    "duration": 100,
                                                     "location": ""
                                                 }
                                             ]
@@ -349,7 +610,7 @@
                                             "type": "step",
                                             "category": "pw:api",
                                             "status": "pw:api",
-                                            "duration": 8,
+                                            "duration": 11,
                                             "location": ""
                                         }
                                     ]
@@ -365,7 +626,7 @@
                                     "type": "step",
                                     "category": "hook",
                                     "status": "hook",
-                                    "duration": 284,
+                                    "duration": 233,
                                     "location": "",
                                     "subs": [
                                         {
@@ -373,7 +634,7 @@
                                             "type": "step",
                                             "category": "pw:api",
                                             "status": "pw:api",
-                                            "duration": 55,
+                                            "duration": 52,
                                             "location": ""
                                         }
                                     ]
@@ -383,7 +644,7 @@
                                     "type": "step",
                                     "category": "pw:api",
                                     "status": "pw:api",
-                                    "duration": 2718,
+                                    "duration": 934,
                                     "location": "tests/ebooks/smokeTests.spec.js:16:14"
                                 },
                                 {
@@ -391,7 +652,7 @@
                                     "type": "step",
                                     "category": "hook",
                                     "status": "hook",
-                                    "duration": 455,
+                                    "duration": 258,
                                     "location": "",
                                     "subs": [
                                         {
@@ -399,7 +660,7 @@
                                             "type": "step",
                                             "category": "hook",
                                             "status": "hook",
-                                            "duration": 227,
+                                            "duration": 105,
                                             "location": "",
                                             "subs": [
                                                 {
@@ -407,7 +668,7 @@
                                                     "type": "step",
                                                     "category": "pw:api",
                                                     "status": "pw:api",
-                                                    "duration": 224,
+                                                    "duration": 103,
                                                     "location": ""
                                                 }
                                             ]
@@ -417,13 +678,1273 @@
                                             "type": "step",
                                             "category": "pw:api",
                                             "status": "pw:api",
-                                            "duration": 15,
+                                            "duration": 11,
                                             "location": ""
                                         }
                                     ]
                                 }
                             ],
                             "numErrors": 2
+                        },
+                        {
+                            "title": "Failed @allure @nrt",
+                            "type": "case",
+                            "caseType": "failed",
+                            "caseId": "f16c853db2baf24f4b72",
+                            "ok": false,
+                            "outcome": "unexpected",
+                            "expectedStatus": "passed",
+                            "location": "tests/ebooks/smokeTests.spec.js:45:5",
+                            "timestamps": [
+                                1680883751181,
+                                1680883751207,
+                                1680883751582,
+                                1680883751614
+                            ],
+                            "duration": 433,
+                            "timeout": 30000,
+                            "attachments": [
+                                {
+                                    "name": "trace",
+                                    "path": "../test-results/ebooks-smokeTests-Failed-allure-nrt-chromium-retry1/trace.zip",
+                                    "contentType": "application/zip"
+                                }
+                            ],
+                            "retry": 1,
+                            "status": "failed",
+                            "subs": [
+                                {
+                                    "title": "Before Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 10,
+                                    "location": ""
+                                },
+                                {
+                                    "title": "expect.toBeLessThanOrEqual",
+                                    "type": "step",
+                                    "category": "expect",
+                                    "status": "expect",
+                                    "duration": 2,
+                                    "location": "tests/ebooks/smokeTests.spec.js:47:13",
+                                    "errors": [
+                                        "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBeLessThanOrEqual\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m\n\nExpected: <= \u001b[32m1\u001b[39m\nReceived:    \u001b[31m2\u001b[39m\n\n  45 | test('Failed @allure @nrt', async () => {\n  46 |   const x = 2;\n> 47 |   expect(x).toBeLessThanOrEqual(1);\n     |             ^\n\n    at /home/runner/work/react-rent-feed/react-rent-feed/tests/ebooks/smokeTests.spec.js:47:13"
+                                    ],
+                                    "numErrors": 1
+                                },
+                                {
+                                    "title": "After Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 6,
+                                    "location": "",
+                                    "subs": [
+                                        {
+                                            "title": "Screenshot on failure",
+                                            "type": "step",
+                                            "category": "hook",
+                                            "status": "hook",
+                                            "duration": 0,
+                                            "location": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Retry #1",
+                                    "type": "step",
+                                    "status": "retry",
+                                    "retry": 1
+                                },
+                                {
+                                    "title": "Before Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 9,
+                                    "location": ""
+                                },
+                                {
+                                    "title": "expect.toBeLessThanOrEqual",
+                                    "type": "step",
+                                    "category": "expect",
+                                    "status": "expect",
+                                    "duration": 6,
+                                    "location": "tests/ebooks/smokeTests.spec.js:47:13",
+                                    "errors": [
+                                        "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBeLessThanOrEqual\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m\n\nExpected: <= \u001b[32m1\u001b[39m\nReceived:    \u001b[31m2\u001b[39m\n\n  45 | test('Failed @allure @nrt', async () => {\n  46 |   const x = 2;\n> 47 |   expect(x).toBeLessThanOrEqual(1);\n     |             ^\n\n    at /home/runner/work/react-rent-feed/react-rent-feed/tests/ebooks/smokeTests.spec.js:47:13"
+                                    ],
+                                    "numErrors": 1
+                                },
+                                {
+                                    "title": "After Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 14,
+                                    "location": "",
+                                    "subs": [
+                                        {
+                                            "title": "Screenshot on failure",
+                                            "type": "step",
+                                            "category": "hook",
+                                            "status": "hook",
+                                            "duration": 0,
+                                            "location": ""
+                                        }
+                                    ]
+                                }
+                            ],
+                            "numErrors": 2
+                        },
+                        {
+                            "title": "Pass @allure @nrt",
+                            "type": "case",
+                            "caseType": "passed",
+                            "caseId": "a55c5d86c630e12b5075",
+                            "ok": true,
+                            "outcome": "expected",
+                            "expectedStatus": "passed",
+                            "location": "tests/ebooks/smokeTests.spec.js:50:5",
+                            "timestamps": [
+                                1680883751985,
+                                1680883752000
+                            ],
+                            "duration": 15,
+                            "timeout": 30000,
+                            "retry": 0,
+                            "status": "passed",
+                            "subs": [
+                                {
+                                    "title": "Before Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 10,
+                                    "location": ""
+                                },
+                                {
+                                    "title": "expect.toBeLessThanOrEqual",
+                                    "type": "step",
+                                    "category": "expect",
+                                    "status": "expect",
+                                    "duration": 1,
+                                    "location": "tests/ebooks/smokeTests.spec.js:52:13"
+                                },
+                                {
+                                    "title": "After Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 1,
+                                    "location": ""
+                                }
+                            ]
+                        }
+                    ],
+                    "location": "tests/ebooks/smokeTests.spec.js:0:0"
+                }
+            ]
+        },
+        {
+            "title": "firefox",
+            "type": "suite",
+            "suiteType": "project",
+            "tests": 3,
+            "subs": [
+                {
+                    "title": "ebooks/smokeTests.spec.js",
+                    "type": "suite",
+                    "suiteType": "file",
+                    "suiteId": "a30b647cb49ebab9400f",
+                    "tests": 3,
+                    "subs": [
+                        {
+                            "title": "OH-57: Successfully submit the Log In form on the SSO Auth0 @uismoke @allure @nrt",
+                            "type": "case",
+                            "caseType": "failed",
+                            "caseId": "b138159abfe57d4a1ccb",
+                            "ok": false,
+                            "outcome": "unexpected",
+                            "expectedStatus": "passed",
+                            "location": "tests/ebooks/smokeTests.spec.js:11:5",
+                            "timestamps": [
+                                1680883752378,
+                                1680883755926,
+                                1680883756302,
+                                1680883759822
+                            ],
+                            "duration": 7444,
+                            "timeout": 30000,
+                            "attachments": [
+                                {
+                                    "name": "allure-metadata.json",
+                                    "path": "attachments/allure-metadata.json-OH-57-Successfully-submit-the-Log-In-form-on-the-SSO-Auth0-uismoke-allure-nrt-0.vnd.",
+                                    "contentType": "application/vnd.allure.metadata+json"
+                                },
+                                {
+                                    "name": "allure-metadata.json",
+                                    "path": "attachments/allure-metadata.json-OH-57-Successfully-submit-the-Log-In-form-on-the-SSO-Auth0-uismoke-allure-nrt-1.vnd.",
+                                    "contentType": "application/vnd.allure.metadata+json"
+                                },
+                                {
+                                    "name": "screenshot",
+                                    "path": "../test-results/ebooks-smokeTests-OH-57-Successfully-submit-the-Log-In-form-on-the-SSO-Auth0-uismoke-allure-nrt-firefox/test-failed-1.png",
+                                    "contentType": "image/png"
+                                },
+                                {
+                                    "name": "allure-metadata.json",
+                                    "path": "attachments/allure-metadata.json-OH-57-Successfully-submit-the-Log-In-form-on-the-SSO-Auth0-uismoke-allure-nrt-3.vnd.",
+                                    "contentType": "application/vnd.allure.metadata+json"
+                                },
+                                {
+                                    "name": "allure-metadata.json",
+                                    "path": "attachments/allure-metadata.json-OH-57-Successfully-submit-the-Log-In-form-on-the-SSO-Auth0-uismoke-allure-nrt-4.vnd.",
+                                    "contentType": "application/vnd.allure.metadata+json"
+                                },
+                                {
+                                    "name": "trace",
+                                    "path": "../test-results/ebooks-smokeTests-OH-57-Successfully-submit-the-Log-In-form-on-the-SSO-Auth0-uismoke-allure-nrt-firefox-retry1/trace.zip",
+                                    "contentType": "application/zip"
+                                },
+                                {
+                                    "name": "screenshot",
+                                    "path": "../test-results/ebooks-smokeTests-OH-57-Successfully-submit-the-Log-In-form-on-the-SSO-Auth0-uismoke-allure-nrt-firefox-retry1/test-failed-1.png",
+                                    "contentType": "image/png"
+                                }
+                            ],
+                            "errors": [
+                                "ReferenceError: Cannot access 'libraryPage' before initialization\n\n  18 |   // Login Page opens\n  19 |   const loginPage = new LoginPageEbooks(page);\n> 20 |   await expect(libraryPage.heading).toBeVisible();\n     |                ^\n\n    at /home/runner/work/react-rent-feed/react-rent-feed/tests/ebooks/smokeTests.spec.js:20:16",
+                                "ReferenceError: Cannot access 'libraryPage' before initialization\n\n  18 |   // Login Page opens\n  19 |   const loginPage = new LoginPageEbooks(page);\n> 20 |   await expect(libraryPage.heading).toBeVisible();\n     |                ^\n\n    at /home/runner/work/react-rent-feed/react-rent-feed/tests/ebooks/smokeTests.spec.js:20:16"
+                            ],
+                            "retry": 1,
+                            "status": "failed",
+                            "subs": [
+                                {
+                                    "title": "Before Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 1268,
+                                    "location": "",
+                                    "subs": [
+                                        {
+                                            "title": "browserContext.newPage",
+                                            "type": "step",
+                                            "category": "pw:api",
+                                            "status": "pw:api",
+                                            "duration": 619,
+                                            "location": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "page.goto(https://qa-ebooks.health.elsevier.com/)",
+                                    "type": "step",
+                                    "category": "pw:api",
+                                    "status": "pw:api",
+                                    "duration": 1256,
+                                    "location": "tests/ebooks/smokeTests.spec.js:16:14"
+                                },
+                                {
+                                    "title": "After Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 1020,
+                                    "location": "",
+                                    "subs": [
+                                        {
+                                            "title": "Screenshot on failure",
+                                            "type": "step",
+                                            "category": "hook",
+                                            "status": "hook",
+                                            "duration": 71,
+                                            "location": "",
+                                            "subs": [
+                                                {
+                                                    "title": "page.screenshot",
+                                                    "type": "step",
+                                                    "category": "pw:api",
+                                                    "status": "pw:api",
+                                                    "duration": 69,
+                                                    "location": ""
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "title": "browserContext.close",
+                                            "type": "step",
+                                            "category": "pw:api",
+                                            "status": "pw:api",
+                                            "duration": 19,
+                                            "location": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Retry #1",
+                                    "type": "step",
+                                    "status": "retry",
+                                    "retry": 1
+                                },
+                                {
+                                    "title": "Before Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 1200,
+                                    "location": "",
+                                    "subs": [
+                                        {
+                                            "title": "browserContext.newPage",
+                                            "type": "step",
+                                            "category": "pw:api",
+                                            "status": "pw:api",
+                                            "duration": 588,
+                                            "location": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "page.goto(https://qa-ebooks.health.elsevier.com/)",
+                                    "type": "step",
+                                    "category": "pw:api",
+                                    "status": "pw:api",
+                                    "duration": 1238,
+                                    "location": "tests/ebooks/smokeTests.spec.js:16:14"
+                                },
+                                {
+                                    "title": "After Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 1070,
+                                    "location": "",
+                                    "subs": [
+                                        {
+                                            "title": "Screenshot on failure",
+                                            "type": "step",
+                                            "category": "hook",
+                                            "status": "hook",
+                                            "duration": 187,
+                                            "location": "",
+                                            "subs": [
+                                                {
+                                                    "title": "page.screenshot",
+                                                    "type": "step",
+                                                    "category": "pw:api",
+                                                    "status": "pw:api",
+                                                    "duration": 183,
+                                                    "location": ""
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "title": "browserContext.close",
+                                            "type": "step",
+                                            "category": "pw:api",
+                                            "status": "pw:api",
+                                            "duration": 14,
+                                            "location": ""
+                                        }
+                                    ]
+                                }
+                            ],
+                            "numErrors": 2
+                        },
+                        {
+                            "title": "Failed @allure @nrt",
+                            "type": "case",
+                            "caseType": "failed",
+                            "caseId": "8ca8921be3ca14dbd73a",
+                            "ok": false,
+                            "outcome": "unexpected",
+                            "expectedStatus": "passed",
+                            "location": "tests/ebooks/smokeTests.spec.js:45:5",
+                            "timestamps": [
+                                1680883760194,
+                                1680883760222,
+                                1680883760594,
+                                1680883760633
+                            ],
+                            "duration": 439,
+                            "timeout": 30000,
+                            "attachments": [
+                                {
+                                    "name": "trace",
+                                    "path": "../test-results/ebooks-smokeTests-Failed-allure-nrt-firefox-retry1/trace.zip",
+                                    "contentType": "application/zip"
+                                }
+                            ],
+                            "retry": 1,
+                            "status": "failed",
+                            "subs": [
+                                {
+                                    "title": "Before Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 9,
+                                    "location": ""
+                                },
+                                {
+                                    "title": "expect.toBeLessThanOrEqual",
+                                    "type": "step",
+                                    "category": "expect",
+                                    "status": "expect",
+                                    "duration": 3,
+                                    "location": "tests/ebooks/smokeTests.spec.js:47:13",
+                                    "errors": [
+                                        "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBeLessThanOrEqual\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m\n\nExpected: <= \u001b[32m1\u001b[39m\nReceived:    \u001b[31m2\u001b[39m\n\n  45 | test('Failed @allure @nrt', async () => {\n  46 |   const x = 2;\n> 47 |   expect(x).toBeLessThanOrEqual(1);\n     |             ^\n\n    at /home/runner/work/react-rent-feed/react-rent-feed/tests/ebooks/smokeTests.spec.js:47:13"
+                                    ],
+                                    "numErrors": 1
+                                },
+                                {
+                                    "title": "After Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 9,
+                                    "location": "",
+                                    "subs": [
+                                        {
+                                            "title": "Screenshot on failure",
+                                            "type": "step",
+                                            "category": "hook",
+                                            "status": "hook",
+                                            "duration": 0,
+                                            "location": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Retry #1",
+                                    "type": "step",
+                                    "status": "retry",
+                                    "retry": 1
+                                },
+                                {
+                                    "title": "Before Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 17,
+                                    "location": ""
+                                },
+                                {
+                                    "title": "expect.toBeLessThanOrEqual",
+                                    "type": "step",
+                                    "category": "expect",
+                                    "status": "expect",
+                                    "duration": 2,
+                                    "location": "tests/ebooks/smokeTests.spec.js:47:13",
+                                    "errors": [
+                                        "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBeLessThanOrEqual\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m\n\nExpected: <= \u001b[32m1\u001b[39m\nReceived:    \u001b[31m2\u001b[39m\n\n  45 | test('Failed @allure @nrt', async () => {\n  46 |   const x = 2;\n> 47 |   expect(x).toBeLessThanOrEqual(1);\n     |             ^\n\n    at /home/runner/work/react-rent-feed/react-rent-feed/tests/ebooks/smokeTests.spec.js:47:13"
+                                    ],
+                                    "numErrors": 1
+                                },
+                                {
+                                    "title": "After Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 13,
+                                    "location": "",
+                                    "subs": [
+                                        {
+                                            "title": "Screenshot on failure",
+                                            "type": "step",
+                                            "category": "hook",
+                                            "status": "hook",
+                                            "duration": 0,
+                                            "location": ""
+                                        }
+                                    ]
+                                }
+                            ],
+                            "numErrors": 2
+                        },
+                        {
+                            "title": "Pass @allure @nrt",
+                            "type": "case",
+                            "caseType": "passed",
+                            "caseId": "8f17096ed86227e466c0",
+                            "ok": true,
+                            "outcome": "expected",
+                            "expectedStatus": "passed",
+                            "location": "tests/ebooks/smokeTests.spec.js:50:5",
+                            "timestamps": [
+                                1680883761003,
+                                1680883761018
+                            ],
+                            "duration": 15,
+                            "timeout": 30000,
+                            "retry": 0,
+                            "status": "passed",
+                            "subs": [
+                                {
+                                    "title": "Before Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 10,
+                                    "location": ""
+                                },
+                                {
+                                    "title": "expect.toBeLessThanOrEqual",
+                                    "type": "step",
+                                    "category": "expect",
+                                    "status": "expect",
+                                    "duration": 1,
+                                    "location": "tests/ebooks/smokeTests.spec.js:52:13"
+                                },
+                                {
+                                    "title": "After Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 2,
+                                    "location": ""
+                                }
+                            ]
+                        }
+                    ],
+                    "location": "tests/ebooks/smokeTests.spec.js:0:0"
+                }
+            ]
+        },
+        {
+            "title": "webkit",
+            "type": "suite",
+            "suiteType": "project",
+            "tests": 3,
+            "subs": [
+                {
+                    "title": "ebooks/smokeTests.spec.js",
+                    "type": "suite",
+                    "suiteType": "file",
+                    "suiteId": "a30b647cb49ebab9400f",
+                    "tests": 3,
+                    "subs": [
+                        {
+                            "title": "OH-57: Successfully submit the Log In form on the SSO Auth0 @uismoke @allure @nrt",
+                            "type": "case",
+                            "caseType": "failed",
+                            "caseId": "a028e050f76792fe2a80",
+                            "ok": false,
+                            "outcome": "unexpected",
+                            "expectedStatus": "passed",
+                            "location": "tests/ebooks/smokeTests.spec.js:11:5",
+                            "timestamps": [
+                                1680883761393,
+                                1680883766336,
+                                1680883766710,
+                                1680883768903
+                            ],
+                            "duration": 7510,
+                            "timeout": 30000,
+                            "attachments": [
+                                {
+                                    "name": "allure-metadata.json",
+                                    "path": "attachments/allure-metadata.json-OH-57-Successfully-submit-the-Log-In-form-on-the-SSO-Auth0-uismoke-allure-nrt-0.vnd.",
+                                    "contentType": "application/vnd.allure.metadata+json"
+                                },
+                                {
+                                    "name": "allure-metadata.json",
+                                    "path": "attachments/allure-metadata.json-OH-57-Successfully-submit-the-Log-In-form-on-the-SSO-Auth0-uismoke-allure-nrt-1.vnd.",
+                                    "contentType": "application/vnd.allure.metadata+json"
+                                },
+                                {
+                                    "name": "screenshot",
+                                    "path": "../test-results/ebooks-smokeTests-OH-57-Successfully-submit-the-Log-In-form-on-the-SSO-Auth0-uismoke-allure-nrt-webkit/test-failed-1.png",
+                                    "contentType": "image/png"
+                                },
+                                {
+                                    "name": "allure-metadata.json",
+                                    "path": "attachments/allure-metadata.json-OH-57-Successfully-submit-the-Log-In-form-on-the-SSO-Auth0-uismoke-allure-nrt-3.vnd.",
+                                    "contentType": "application/vnd.allure.metadata+json"
+                                },
+                                {
+                                    "name": "allure-metadata.json",
+                                    "path": "attachments/allure-metadata.json-OH-57-Successfully-submit-the-Log-In-form-on-the-SSO-Auth0-uismoke-allure-nrt-4.vnd.",
+                                    "contentType": "application/vnd.allure.metadata+json"
+                                },
+                                {
+                                    "name": "trace",
+                                    "path": "../test-results/ebooks-smokeTests-OH-57-Successfully-submit-the-Log-In-form-on-the-SSO-Auth0-uismoke-allure-nrt-webkit-retry1/trace.zip",
+                                    "contentType": "application/zip"
+                                },
+                                {
+                                    "name": "screenshot",
+                                    "path": "../test-results/ebooks-smokeTests-OH-57-Successfully-submit-the-Log-In-form-on-the-SSO-Auth0-uismoke-allure-nrt-webkit-retry1/test-failed-1.png",
+                                    "contentType": "image/png"
+                                }
+                            ],
+                            "errors": [
+                                "ReferenceError: Cannot access 'libraryPage' before initialization\n\n  18 |   // Login Page opens\n  19 |   const loginPage = new LoginPageEbooks(page);\n> 20 |   await expect(libraryPage.heading).toBeVisible();\n     |                ^\n\n    at /home/runner/work/react-rent-feed/react-rent-feed/tests/ebooks/smokeTests.spec.js:20:16",
+                                "ReferenceError: Cannot access 'libraryPage' before initialization\n\n  18 |   // Login Page opens\n  19 |   const loginPage = new LoginPageEbooks(page);\n> 20 |   await expect(libraryPage.heading).toBeVisible();\n     |                ^\n\n    at /home/runner/work/react-rent-feed/react-rent-feed/tests/ebooks/smokeTests.spec.js:20:16"
+                            ],
+                            "retry": 1,
+                            "status": "failed",
+                            "subs": [
+                                {
+                                    "title": "Before Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 1951,
+                                    "location": "",
+                                    "subs": [
+                                        {
+                                            "title": "browserContext.newPage",
+                                            "type": "step",
+                                            "category": "pw:api",
+                                            "status": "pw:api",
+                                            "duration": 346,
+                                            "location": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "page.goto(https://qa-ebooks.health.elsevier.com/)",
+                                    "type": "step",
+                                    "category": "pw:api",
+                                    "status": "pw:api",
+                                    "duration": 1063,
+                                    "location": "tests/ebooks/smokeTests.spec.js:16:14"
+                                },
+                                {
+                                    "title": "After Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 1925,
+                                    "location": "",
+                                    "subs": [
+                                        {
+                                            "title": "Screenshot on failure",
+                                            "type": "step",
+                                            "category": "hook",
+                                            "status": "hook",
+                                            "duration": 192,
+                                            "location": "",
+                                            "subs": [
+                                                {
+                                                    "title": "page.screenshot",
+                                                    "type": "step",
+                                                    "category": "pw:api",
+                                                    "status": "pw:api",
+                                                    "duration": 189,
+                                                    "location": ""
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "title": "browserContext.close",
+                                            "type": "step",
+                                            "category": "pw:api",
+                                            "status": "pw:api",
+                                            "duration": 14,
+                                            "location": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Retry #1",
+                                    "type": "step",
+                                    "status": "retry",
+                                    "retry": 1
+                                },
+                                {
+                                    "title": "Before Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 647,
+                                    "location": "",
+                                    "subs": [
+                                        {
+                                            "title": "browserContext.newPage",
+                                            "type": "step",
+                                            "category": "pw:api",
+                                            "status": "pw:api",
+                                            "duration": 124,
+                                            "location": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "page.goto(https://qa-ebooks.health.elsevier.com/)",
+                                    "type": "step",
+                                    "category": "pw:api",
+                                    "status": "pw:api",
+                                    "duration": 1095,
+                                    "location": "tests/ebooks/smokeTests.spec.js:16:14"
+                                },
+                                {
+                                    "title": "After Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 447,
+                                    "location": "",
+                                    "subs": [
+                                        {
+                                            "title": "Screenshot on failure",
+                                            "type": "step",
+                                            "category": "hook",
+                                            "status": "hook",
+                                            "duration": 195,
+                                            "location": "",
+                                            "subs": [
+                                                {
+                                                    "title": "page.screenshot",
+                                                    "type": "step",
+                                                    "category": "pw:api",
+                                                    "status": "pw:api",
+                                                    "duration": 194,
+                                                    "location": ""
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "title": "browserContext.close",
+                                            "type": "step",
+                                            "category": "pw:api",
+                                            "status": "pw:api",
+                                            "duration": 9,
+                                            "location": ""
+                                        }
+                                    ]
+                                }
+                            ],
+                            "numErrors": 2
+                        },
+                        {
+                            "title": "Failed @allure @nrt",
+                            "type": "case",
+                            "caseType": "failed",
+                            "caseId": "a8f59a2a343f7b815e05",
+                            "ok": false,
+                            "outcome": "unexpected",
+                            "expectedStatus": "passed",
+                            "location": "tests/ebooks/smokeTests.spec.js:45:5",
+                            "timestamps": [
+                                1680883769284,
+                                1680883769310,
+                                1680883769688,
+                                1680883769727
+                            ],
+                            "duration": 443,
+                            "timeout": 30000,
+                            "attachments": [
+                                {
+                                    "name": "trace",
+                                    "path": "../test-results/ebooks-smokeTests-Failed-allure-nrt-webkit-retry1/trace.zip",
+                                    "contentType": "application/zip"
+                                }
+                            ],
+                            "retry": 1,
+                            "status": "failed",
+                            "subs": [
+                                {
+                                    "title": "Before Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 10,
+                                    "location": ""
+                                },
+                                {
+                                    "title": "expect.toBeLessThanOrEqual",
+                                    "type": "step",
+                                    "category": "expect",
+                                    "status": "expect",
+                                    "duration": 3,
+                                    "location": "tests/ebooks/smokeTests.spec.js:47:13",
+                                    "errors": [
+                                        "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBeLessThanOrEqual\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m\n\nExpected: <= \u001b[32m1\u001b[39m\nReceived:    \u001b[31m2\u001b[39m\n\n  45 | test('Failed @allure @nrt', async () => {\n  46 |   const x = 2;\n> 47 |   expect(x).toBeLessThanOrEqual(1);\n     |             ^\n\n    at /home/runner/work/react-rent-feed/react-rent-feed/tests/ebooks/smokeTests.spec.js:47:13"
+                                    ],
+                                    "numErrors": 1
+                                },
+                                {
+                                    "title": "After Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 11,
+                                    "location": "",
+                                    "subs": [
+                                        {
+                                            "title": "Screenshot on failure",
+                                            "type": "step",
+                                            "category": "hook",
+                                            "status": "hook",
+                                            "duration": 0,
+                                            "location": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Retry #1",
+                                    "type": "step",
+                                    "status": "retry",
+                                    "retry": 1
+                                },
+                                {
+                                    "title": "Before Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 8,
+                                    "location": ""
+                                },
+                                {
+                                    "title": "expect.toBeLessThanOrEqual",
+                                    "type": "step",
+                                    "category": "expect",
+                                    "status": "expect",
+                                    "duration": 2,
+                                    "location": "tests/ebooks/smokeTests.spec.js:47:13",
+                                    "errors": [
+                                        "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBeLessThanOrEqual\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m\n\nExpected: <= \u001b[32m1\u001b[39m\nReceived:    \u001b[31m2\u001b[39m\n\n  45 | test('Failed @allure @nrt', async () => {\n  46 |   const x = 2;\n> 47 |   expect(x).toBeLessThanOrEqual(1);\n     |             ^\n\n    at /home/runner/work/react-rent-feed/react-rent-feed/tests/ebooks/smokeTests.spec.js:47:13"
+                                    ],
+                                    "numErrors": 1
+                                },
+                                {
+                                    "title": "After Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 26,
+                                    "location": "",
+                                    "subs": [
+                                        {
+                                            "title": "Screenshot on failure",
+                                            "type": "step",
+                                            "category": "hook",
+                                            "status": "hook",
+                                            "duration": 0,
+                                            "location": ""
+                                        }
+                                    ]
+                                }
+                            ],
+                            "numErrors": 2
+                        },
+                        {
+                            "title": "Pass @allure @nrt",
+                            "type": "case",
+                            "caseType": "passed",
+                            "caseId": "6f28def7a8117509c9f9",
+                            "ok": true,
+                            "outcome": "expected",
+                            "expectedStatus": "passed",
+                            "location": "tests/ebooks/smokeTests.spec.js:50:5",
+                            "timestamps": [
+                                1680883770108,
+                                1680883770121
+                            ],
+                            "duration": 13,
+                            "timeout": 30000,
+                            "retry": 0,
+                            "status": "passed",
+                            "subs": [
+                                {
+                                    "title": "Before Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 9,
+                                    "location": ""
+                                },
+                                {
+                                    "title": "expect.toBeLessThanOrEqual",
+                                    "type": "step",
+                                    "category": "expect",
+                                    "status": "expect",
+                                    "duration": 1,
+                                    "location": "tests/ebooks/smokeTests.spec.js:52:13"
+                                },
+                                {
+                                    "title": "After Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 1,
+                                    "location": ""
+                                }
+                            ]
+                        }
+                    ],
+                    "location": "tests/ebooks/smokeTests.spec.js:0:0"
+                }
+            ]
+        },
+        {
+            "title": "Microsoft Edge",
+            "type": "suite",
+            "suiteType": "project",
+            "tests": 3,
+            "subs": [
+                {
+                    "title": "ebooks/smokeTests.spec.js",
+                    "type": "suite",
+                    "suiteType": "file",
+                    "suiteId": "a30b647cb49ebab9400f",
+                    "tests": 3,
+                    "subs": [
+                        {
+                            "title": "OH-57: Successfully submit the Log In form on the SSO Auth0 @uismoke @allure @nrt",
+                            "type": "case",
+                            "caseType": "failed",
+                            "caseId": "33a8b474e460e5288d88",
+                            "ok": false,
+                            "outcome": "unexpected",
+                            "expectedStatus": "passed",
+                            "location": "tests/ebooks/smokeTests.spec.js:11:5",
+                            "timestamps": [
+                                1680883770505,
+                                1680883783376,
+                                1680883783749,
+                                1680883785058
+                            ],
+                            "duration": 14553,
+                            "timeout": 30000,
+                            "attachments": [
+                                {
+                                    "name": "allure-metadata.json",
+                                    "path": "attachments/allure-metadata.json-OH-57-Successfully-submit-the-Log-In-form-on-the-SSO-Auth0-uismoke-allure-nrt-0.vnd.",
+                                    "contentType": "application/vnd.allure.metadata+json"
+                                },
+                                {
+                                    "name": "allure-metadata.json",
+                                    "path": "attachments/allure-metadata.json-OH-57-Successfully-submit-the-Log-In-form-on-the-SSO-Auth0-uismoke-allure-nrt-1.vnd.",
+                                    "contentType": "application/vnd.allure.metadata+json"
+                                },
+                                {
+                                    "name": "screenshot",
+                                    "path": "../test-results/ebooks-smokeTests-OH-57-Successfully-submit-the-Log-In-form-on-the-SSO-Auth0-uismoke-allure-nrt-Microsoft-Edge/test-failed-1.png",
+                                    "contentType": "image/png"
+                                },
+                                {
+                                    "name": "allure-metadata.json",
+                                    "path": "attachments/allure-metadata.json-OH-57-Successfully-submit-the-Log-In-form-on-the-SSO-Auth0-uismoke-allure-nrt-3.vnd.",
+                                    "contentType": "application/vnd.allure.metadata+json"
+                                },
+                                {
+                                    "name": "allure-metadata.json",
+                                    "path": "attachments/allure-metadata.json-OH-57-Successfully-submit-the-Log-In-form-on-the-SSO-Auth0-uismoke-allure-nrt-4.vnd.",
+                                    "contentType": "application/vnd.allure.metadata+json"
+                                },
+                                {
+                                    "name": "trace",
+                                    "path": "../test-results/ebooks-smokeTests-OH-57-Successfully-submit-the-Log-In-form-on-the-SSO-Auth0-uismoke-allure-nrt-Microsoft-Edge-retry1/trace.zip",
+                                    "contentType": "application/zip"
+                                },
+                                {
+                                    "name": "screenshot",
+                                    "path": "../test-results/ebooks-smokeTests-OH-57-Successfully-submit-the-Log-In-form-on-the-SSO-Auth0-uismoke-allure-nrt-Microsoft-Edge-retry1/test-failed-1.png",
+                                    "contentType": "image/png"
+                                }
+                            ],
+                            "errors": [
+                                "ReferenceError: Cannot access 'libraryPage' before initialization\n\n  18 |   // Login Page opens\n  19 |   const loginPage = new LoginPageEbooks(page);\n> 20 |   await expect(libraryPage.heading).toBeVisible();\n     |                ^\n\n    at /home/runner/work/react-rent-feed/react-rent-feed/tests/ebooks/smokeTests.spec.js:20:16",
+                                "ReferenceError: Cannot access 'libraryPage' before initialization\n\n  18 |   // Login Page opens\n  19 |   const loginPage = new LoginPageEbooks(page);\n> 20 |   await expect(libraryPage.heading).toBeVisible();\n     |                ^\n\n    at /home/runner/work/react-rent-feed/react-rent-feed/tests/ebooks/smokeTests.spec.js:20:16"
+                            ],
+                            "retry": 1,
+                            "status": "failed",
+                            "subs": [
+                                {
+                                    "title": "Before Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 10737,
+                                    "location": "",
+                                    "subs": [
+                                        {
+                                            "title": "browserContext.newPage",
+                                            "type": "step",
+                                            "category": "pw:api",
+                                            "status": "pw:api",
+                                            "duration": 4949,
+                                            "location": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "page.goto(https://qa-ebooks.health.elsevier.com/)",
+                                    "type": "step",
+                                    "category": "pw:api",
+                                    "status": "pw:api",
+                                    "duration": 1898,
+                                    "location": "tests/ebooks/smokeTests.spec.js:16:14"
+                                },
+                                {
+                                    "title": "After Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 232,
+                                    "location": "",
+                                    "subs": [
+                                        {
+                                            "title": "Screenshot on failure",
+                                            "type": "step",
+                                            "category": "hook",
+                                            "status": "hook",
+                                            "duration": 90,
+                                            "location": "",
+                                            "subs": [
+                                                {
+                                                    "title": "page.screenshot",
+                                                    "type": "step",
+                                                    "category": "pw:api",
+                                                    "status": "pw:api",
+                                                    "duration": 87,
+                                                    "location": ""
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "title": "browserContext.close",
+                                            "type": "step",
+                                            "category": "pw:api",
+                                            "status": "pw:api",
+                                            "duration": 32,
+                                            "location": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Retry #1",
+                                    "type": "step",
+                                    "status": "retry",
+                                    "retry": 1
+                                },
+                                {
+                                    "title": "Before Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 159,
+                                    "location": "",
+                                    "subs": [
+                                        {
+                                            "title": "browserContext.newPage",
+                                            "type": "step",
+                                            "category": "pw:api",
+                                            "status": "pw:api",
+                                            "duration": 50,
+                                            "location": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "page.goto(https://qa-ebooks.health.elsevier.com/)",
+                                    "type": "step",
+                                    "category": "pw:api",
+                                    "status": "pw:api",
+                                    "duration": 889,
+                                    "location": "tests/ebooks/smokeTests.spec.js:16:14"
+                                },
+                                {
+                                    "title": "After Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 256,
+                                    "location": "",
+                                    "subs": [
+                                        {
+                                            "title": "Screenshot on failure",
+                                            "type": "step",
+                                            "category": "hook",
+                                            "status": "hook",
+                                            "duration": 101,
+                                            "location": "",
+                                            "subs": [
+                                                {
+                                                    "title": "page.screenshot",
+                                                    "type": "step",
+                                                    "category": "pw:api",
+                                                    "status": "pw:api",
+                                                    "duration": 98,
+                                                    "location": ""
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "title": "browserContext.close",
+                                            "type": "step",
+                                            "category": "pw:api",
+                                            "status": "pw:api",
+                                            "duration": 9,
+                                            "location": ""
+                                        }
+                                    ]
+                                }
+                            ],
+                            "numErrors": 2
+                        },
+                        {
+                            "title": "Failed @allure @nrt",
+                            "type": "case",
+                            "caseType": "failed",
+                            "caseId": "6c1a2b1fabe9890a4b26",
+                            "ok": false,
+                            "outcome": "unexpected",
+                            "expectedStatus": "passed",
+                            "location": "tests/ebooks/smokeTests.spec.js:45:5",
+                            "timestamps": [
+                                1680883785432,
+                                1680883785458,
+                                1680883785833,
+                                1680883785868
+                            ],
+                            "duration": 436,
+                            "timeout": 30000,
+                            "attachments": [
+                                {
+                                    "name": "trace",
+                                    "path": "../test-results/ebooks-smokeTests-Failed-allure-nrt-Microsoft-Edge-retry1/trace.zip",
+                                    "contentType": "application/zip"
+                                }
+                            ],
+                            "retry": 1,
+                            "status": "failed",
+                            "subs": [
+                                {
+                                    "title": "Before Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 11,
+                                    "location": ""
+                                },
+                                {
+                                    "title": "expect.toBeLessThanOrEqual",
+                                    "type": "step",
+                                    "category": "expect",
+                                    "status": "expect",
+                                    "duration": 3,
+                                    "location": "tests/ebooks/smokeTests.spec.js:47:13",
+                                    "errors": [
+                                        "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBeLessThanOrEqual\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m\n\nExpected: <= \u001b[32m1\u001b[39m\nReceived:    \u001b[31m2\u001b[39m\n\n  45 | test('Failed @allure @nrt', async () => {\n  46 |   const x = 2;\n> 47 |   expect(x).toBeLessThanOrEqual(1);\n     |             ^\n\n    at /home/runner/work/react-rent-feed/react-rent-feed/tests/ebooks/smokeTests.spec.js:47:13"
+                                    ],
+                                    "numErrors": 1
+                                },
+                                {
+                                    "title": "After Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 10,
+                                    "location": "",
+                                    "subs": [
+                                        {
+                                            "title": "Screenshot on failure",
+                                            "type": "step",
+                                            "category": "hook",
+                                            "status": "hook",
+                                            "duration": 0,
+                                            "location": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Retry #1",
+                                    "type": "step",
+                                    "status": "retry",
+                                    "retry": 1
+                                },
+                                {
+                                    "title": "Before Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 10,
+                                    "location": ""
+                                },
+                                {
+                                    "title": "expect.toBeLessThanOrEqual",
+                                    "type": "step",
+                                    "category": "expect",
+                                    "status": "expect",
+                                    "duration": 2,
+                                    "location": "tests/ebooks/smokeTests.spec.js:47:13",
+                                    "errors": [
+                                        "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBeLessThanOrEqual\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m\n\nExpected: <= \u001b[32m1\u001b[39m\nReceived:    \u001b[31m2\u001b[39m\n\n  45 | test('Failed @allure @nrt', async () => {\n  46 |   const x = 2;\n> 47 |   expect(x).toBeLessThanOrEqual(1);\n     |             ^\n\n    at /home/runner/work/react-rent-feed/react-rent-feed/tests/ebooks/smokeTests.spec.js:47:13"
+                                    ],
+                                    "numErrors": 1
+                                },
+                                {
+                                    "title": "After Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 18,
+                                    "location": "",
+                                    "subs": [
+                                        {
+                                            "title": "Screenshot on failure",
+                                            "type": "step",
+                                            "category": "hook",
+                                            "status": "hook",
+                                            "duration": 0,
+                                            "location": ""
+                                        }
+                                    ]
+                                }
+                            ],
+                            "numErrors": 2
+                        },
+                        {
+                            "title": "Pass @allure @nrt",
+                            "type": "case",
+                            "caseType": "passed",
+                            "caseId": "49f8f33376e04deecfe7",
+                            "ok": true,
+                            "outcome": "expected",
+                            "expectedStatus": "passed",
+                            "location": "tests/ebooks/smokeTests.spec.js:50:5",
+                            "timestamps": [
+                                1680883786241,
+                                1680883786256
+                            ],
+                            "duration": 15,
+                            "timeout": 30000,
+                            "retry": 0,
+                            "status": "passed",
+                            "subs": [
+                                {
+                                    "title": "Before Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 10,
+                                    "location": ""
+                                },
+                                {
+                                    "title": "expect.toBeLessThanOrEqual",
+                                    "type": "step",
+                                    "category": "expect",
+                                    "status": "expect",
+                                    "duration": 0,
+                                    "location": "tests/ebooks/smokeTests.spec.js:52:13"
+                                },
+                                {
+                                    "title": "After Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 2,
+                                    "location": ""
+                                }
+                            ]
                         }
                     ],
                     "location": "tests/ebooks/smokeTests.spec.js:0:0"
@@ -446,30 +1967,30 @@
     ],
     "tags": {
         "uismoke": {
-            "value": 1
+            "value": 4
         },
         "allure": {
-            "value": 1
+            "value": 12
         },
         "nrt": {
-            "value": 1
+            "value": 12
         }
     },
     "summary": {
         "tests": {
             "name": "Tests",
-            "value": 1,
+            "value": 12,
             "nav": true,
             "id": "tests"
         },
         "passed": {
             "name": "Passed",
-            "value": 0,
+            "value": 4,
             "color": "green",
             "bg": "#22C45E",
             "nav": true,
             "id": "passed",
-            "percent": "0.0%"
+            "percent": "33.3%"
         },
         "flaky": {
             "name": "Flaky",
@@ -491,27 +2012,27 @@
         },
         "failed": {
             "name": "Failed",
-            "value": 1,
+            "value": 8,
             "color": "#d00",
             "bg": "#EE4444",
             "nav": true,
             "id": "failed",
-            "percent": "100.0%"
+            "percent": "66.7%"
         },
         "steps": {
             "name": "Steps",
-            "value": 15,
+            "value": 108,
             "id": "steps"
         },
         "suites": {
             "name": "Suites",
-            "value": 1,
+            "value": 4,
             "id": "suites"
         },
         "projects": {
             "name": "Projects",
             "description": "Suite type is project",
-            "value": 1,
+            "value": 4,
             "id": "projects"
         },
         "files": {
@@ -534,12 +2055,12 @@
         },
         "retries": {
             "name": "Retries",
-            "value": 1,
+            "value": 8,
             "id": "retries"
         },
         "errors": {
             "name": "Errors",
-            "value": 2,
+            "value": 16,
             "id": "errors"
         },
         "logs": {
@@ -549,7 +2070,7 @@
         },
         "attachments": {
             "name": "Attachments",
-            "value": 7,
+            "value": 32,
             "id": "attachments"
         }
     },
@@ -558,6 +2079,6 @@
         "width": 360,
         "height": 150,
         "margin": 10,
-        "svg": "<svg viewBox=\"0 0 360 150\" width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><g class=\"mcr-pie-path-passed\"><path d=\"\" fill=\"green\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"0,-10\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g class=\"mcr-pie-path-flaky\"><path d=\"\" fill=\"orange\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"0,-10\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g class=\"mcr-pie-path-skipped\"><path d=\"\" fill=\"gray\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"0,-10\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g class=\"mcr-pie-path-failed\"><path d=\"M75,75 L75,10 A65,65 0 1 1 75,140 A65,65 0 1 1 75,10 z\" fill=\"#d00\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"0,10\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g transform=\"translate(160 10)\"><g class=\"mcr-pie-legend-passed\" transform=\"translate(0 0)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"green\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Passed</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">0</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">0.0%</text></g><g class=\"mcr-pie-legend-flaky\" transform=\"translate(0 32)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"orange\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Flaky</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">0</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">0.0%</text></g><g class=\"mcr-pie-legend-skipped\" transform=\"translate(0 64)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"gray\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Skipped</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">0</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">0.0%</text></g><g class=\"mcr-pie-legend-failed\" transform=\"translate(0 96)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"#d00\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Failed</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">1</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">100.0%</text></g></g></svg>"
+        "svg": "<svg viewBox=\"0 0 360 150\" width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><g class=\"mcr-pie-path-passed\"><path d=\"M75,75 L75,10 A65,65 0 0 1 131.4,107.4 z\" fill=\"green\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"8.7,-5\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g class=\"mcr-pie-path-flaky\"><path d=\"\" fill=\"orange\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"8.7,5\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g class=\"mcr-pie-path-skipped\"><path d=\"\" fill=\"gray\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"8.7,5\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g class=\"mcr-pie-path-failed\"><path d=\"M75,75 L131.4,107.4 A65,65 0 1 1 75,10 z\" fill=\"#d00\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"-8.7,5\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g transform=\"translate(160 10)\"><g class=\"mcr-pie-legend-passed\" transform=\"translate(0 0)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"green\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Passed</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">4</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">33.3%</text></g><g class=\"mcr-pie-legend-flaky\" transform=\"translate(0 32)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"orange\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Flaky</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">0</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">0.0%</text></g><g class=\"mcr-pie-legend-skipped\" transform=\"translate(0 64)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"gray\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Skipped</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">0</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">0.0%</text></g><g class=\"mcr-pie-legend-failed\" transform=\"translate(0 96)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"#d00\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Failed</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">8</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">66.7%</text></g></g></svg>"
     }
 }

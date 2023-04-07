@@ -55,7 +55,7 @@ jobs:
         if: always()
         id: test-report
         with:
-          test_results: monocart-results
+          test_results: test-results
           gh_pages: gh-pages
 
       - name: Deploy report to Github Pages
@@ -64,6 +64,6 @@ jobs:
         env:
           PERSONAL_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           PUBLISH_BRANCH: gh-pages
-          PUBLISH_DIR: monocart-results
+          PUBLISH_DIR: test-results
 
  

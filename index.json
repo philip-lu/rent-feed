@@ -1,0 +1,545 @@
+{
+    "name": "My Test Report",
+    "date": 1680882682457,
+    "dateH": "4/7/2023, 3:51:22 PM",
+    "duration": 8324,
+    "durationH": "8.3s",
+    "cwd": "/home/runner/work/react-rent-feed/react-rent-feed",
+    "outputFile": "./monocart-results/index.html",
+    "outputDir": "./monocart-results",
+    "metadata": {},
+    "system": {
+        "cpu": {
+            "color": "#117DBB",
+            "count": 2,
+            "model": "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+            "speed": 2593
+        },
+        "mem": {
+            "color": "#8B12AE",
+            "total": 7281270784
+        },
+        "arch": "x64",
+        "platform": "linux",
+        "release": "5.15.0-1035-azure",
+        "type": "Linux",
+        "version": "#42-Ubuntu SMP Tue Feb 28 19:41:23 UTC 2023",
+        "uptime": 381.97,
+        "hostname": "fv-az1135-110",
+        "homedir": "/home/runner",
+        "tmpdir": "/tmp",
+        "pid": 3338,
+        "timestampStart": 1680882682457,
+        "ticks": [
+            {
+                "cpu": {
+                    "percent": 2.94
+                },
+                "mem": {
+                    "free": 6150029312
+                },
+                "timestamp": 1680882684461
+            },
+            {
+                "cpu": {
+                    "percent": 58.82
+                },
+                "mem": {
+                    "free": 6177705984
+                },
+                "timestamp": 1680882686462
+            },
+            {
+                "cpu": {
+                    "percent": 25
+                },
+                "mem": {
+                    "free": 6067744768
+                },
+                "timestamp": 1680882688465
+            },
+            {
+                "cpu": {
+                    "percent": 5.13
+                },
+                "mem": {
+                    "free": 6219894784
+                },
+                "timestamp": 1680882690755
+            }
+        ],
+        "workers": 1,
+        "jobs": [
+            {
+                "caseId": "64713fa2b58b4e67de02",
+                "parallelIndex": 0,
+                "workerIndex": 0,
+                "timestamp": 1680882683016,
+                "duration": 3199
+            },
+            {
+                "caseId": "64713fa2b58b4e67de02",
+                "parallelIndex": 0,
+                "workerIndex": 1,
+                "timestamp": 1680882686598,
+                "duration": 2845
+            }
+        ],
+        "cwd": "/home/runner/work/react-rent-feed/react-rent-feed",
+        "configFile": "playwright.config.js",
+        "playwright": "1.32.2",
+        "testDir": "tests",
+        "outputFile": "monocart-results/index.html",
+        "outputDir": "monocart-results",
+        "timestampEnd": 1680882690781
+    },
+    "trends": [],
+    "columns": [
+        {
+            "id": "caseType",
+            "name": "",
+            "width": 36,
+            "sortable": false,
+            "align": "center",
+            "formatter": "iconCaseType",
+            "detailed": false
+        },
+        {
+            "id": "title",
+            "name": "Title",
+            "searchable": true,
+            "width": 300,
+            "maxWidth": 1230,
+            "detailed": false
+        },
+        {
+            "id": "type",
+            "name": "Type",
+            "width": 50,
+            "sortable": false,
+            "align": "center",
+            "formatter": "iconType",
+            "detailed": false
+        },
+        {
+            "id": "duration",
+            "name": "Duration",
+            "align": "right",
+            "sortAsc": false,
+            "formatter": "duration",
+            "detailed": false
+        },
+        {
+            "id": "errors",
+            "name": "Errors",
+            "width": 60,
+            "align": "center",
+            "comparer": "errors",
+            "formatter": "errors",
+            "detailed": false
+        },
+        {
+            "id": "logs",
+            "name": "Logs",
+            "width": 60,
+            "align": "center",
+            "comparer": "logs",
+            "formatter": "logs",
+            "detailed": false
+        },
+        {
+            "id": "annotations",
+            "name": "Annotations",
+            "width": 100,
+            "markdown": true,
+            "searchable": true,
+            "comparer": "annotations",
+            "formatter": "annotations",
+            "detailed": false
+        },
+        {
+            "id": "attachments",
+            "name": "Attachments",
+            "width": 100,
+            "align": "center",
+            "formatter": "attachments",
+            "detailed": false
+        },
+        {
+            "id": "status",
+            "name": "Status",
+            "align": "center",
+            "detailed": false
+        },
+        {
+            "id": "expectedStatus",
+            "name": "Expected",
+            "align": "center",
+            "detailed": false
+        },
+        {
+            "id": "outcome",
+            "name": "Outcome",
+            "align": "center",
+            "width": 85,
+            "detailed": false
+        },
+        {
+            "id": "retry",
+            "name": "Retry",
+            "align": "center",
+            "width": 50,
+            "detailed": false
+        },
+        {
+            "id": "location",
+            "name": "Location",
+            "classMap": "mcr-location",
+            "width": 200,
+            "detailed": false
+        }
+    ],
+    "rows": [
+        {
+            "title": "chromium",
+            "type": "suite",
+            "suiteType": "project",
+            "tests": 1,
+            "subs": [
+                {
+                    "title": "ebooks/smokeTests.spec.js",
+                    "type": "suite",
+                    "suiteType": "file",
+                    "suiteId": "a30b647cb49ebab9400f",
+                    "tests": 1,
+                    "subs": [
+                        {
+                            "title": "OH-57: Successfully submit the Log In form on the SSO Auth0 @uismoke @allure @nrt",
+                            "type": "case",
+                            "caseType": "failed",
+                            "caseId": "64713fa2b58b4e67de02",
+                            "ok": false,
+                            "outcome": "unexpected",
+                            "expectedStatus": "passed",
+                            "location": "tests/ebooks/smokeTests.spec.js:11:5",
+                            "timestamps": [
+                                1680882683016,
+                                1680882686215,
+                                1680882686598,
+                                1680882689443
+                            ],
+                            "duration": 6427,
+                            "timeout": 30000,
+                            "attachments": [
+                                {
+                                    "name": "allure-metadata.json",
+                                    "path": "attachments/allure-metadata.json-OH-57-Successfully-submit-the-Log-In-form-on-the-SSO-Auth0-uismoke-allure-nrt-0.vnd.",
+                                    "contentType": "application/vnd.allure.metadata+json"
+                                },
+                                {
+                                    "name": "allure-metadata.json",
+                                    "path": "attachments/allure-metadata.json-OH-57-Successfully-submit-the-Log-In-form-on-the-SSO-Auth0-uismoke-allure-nrt-1.vnd.",
+                                    "contentType": "application/vnd.allure.metadata+json"
+                                },
+                                {
+                                    "name": "screenshot",
+                                    "path": "../test-results/ebooks-smokeTests-OH-57-Successfully-submit-the-Log-In-form-on-the-SSO-Auth0-uismoke-allure-nrt-chromium/test-failed-1.png",
+                                    "contentType": "image/png"
+                                },
+                                {
+                                    "name": "allure-metadata.json",
+                                    "path": "attachments/allure-metadata.json-OH-57-Successfully-submit-the-Log-In-form-on-the-SSO-Auth0-uismoke-allure-nrt-3.vnd.",
+                                    "contentType": "application/vnd.allure.metadata+json"
+                                },
+                                {
+                                    "name": "allure-metadata.json",
+                                    "path": "attachments/allure-metadata.json-OH-57-Successfully-submit-the-Log-In-form-on-the-SSO-Auth0-uismoke-allure-nrt-4.vnd.",
+                                    "contentType": "application/vnd.allure.metadata+json"
+                                },
+                                {
+                                    "name": "trace",
+                                    "path": "../test-results/ebooks-smokeTests-OH-57-Successfully-submit-the-Log-In-form-on-the-SSO-Auth0-uismoke-allure-nrt-chromium-retry1/trace.zip",
+                                    "contentType": "application/zip"
+                                },
+                                {
+                                    "name": "screenshot",
+                                    "path": "../test-results/ebooks-smokeTests-OH-57-Successfully-submit-the-Log-In-form-on-the-SSO-Auth0-uismoke-allure-nrt-chromium-retry1/test-failed-1.png",
+                                    "contentType": "image/png"
+                                }
+                            ],
+                            "errors": [
+                                "ReferenceError: Cannot access 'libraryPage' before initialization\n\n  18 |   // Login Page opens\n  19 |   const loginPage = new LoginPageEbooks(page);\n> 20 |   await expect(libraryPage.heading).toBeVisible();\n     |                ^\n\n    at /home/runner/work/react-rent-feed/react-rent-feed/tests/ebooks/smokeTests.spec.js:20:16",
+                                "ReferenceError: Cannot access 'libraryPage' before initialization\n\n  18 |   // Login Page opens\n  19 |   const loginPage = new LoginPageEbooks(page);\n> 20 |   await expect(libraryPage.heading).toBeVisible();\n     |                ^\n\n    at /home/runner/work/react-rent-feed/react-rent-feed/tests/ebooks/smokeTests.spec.js:20:16"
+                            ],
+                            "retry": 1,
+                            "status": "failed",
+                            "subs": [
+                                {
+                                    "title": "Before Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 1591,
+                                    "location": "",
+                                    "subs": [
+                                        {
+                                            "title": "browserContext.newPage",
+                                            "type": "step",
+                                            "category": "pw:api",
+                                            "status": "pw:api",
+                                            "duration": 38,
+                                            "location": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "page.goto(https://qa-ebooks.health.elsevier.com/)",
+                                    "type": "step",
+                                    "category": "pw:api",
+                                    "status": "pw:api",
+                                    "duration": 1434,
+                                    "location": "tests/ebooks/smokeTests.spec.js:16:14"
+                                },
+                                {
+                                    "title": "After Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 169,
+                                    "location": "",
+                                    "subs": [
+                                        {
+                                            "title": "Screenshot on failure",
+                                            "type": "step",
+                                            "category": "hook",
+                                            "status": "hook",
+                                            "duration": 112,
+                                            "location": "",
+                                            "subs": [
+                                                {
+                                                    "title": "page.screenshot",
+                                                    "type": "step",
+                                                    "category": "pw:api",
+                                                    "status": "pw:api",
+                                                    "duration": 106,
+                                                    "location": ""
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "title": "browserContext.close",
+                                            "type": "step",
+                                            "category": "pw:api",
+                                            "status": "pw:api",
+                                            "duration": 10,
+                                            "location": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Retry #1",
+                                    "type": "step",
+                                    "status": "retry",
+                                    "retry": 1
+                                },
+                                {
+                                    "title": "Before Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 241,
+                                    "location": "",
+                                    "subs": [
+                                        {
+                                            "title": "browserContext.newPage",
+                                            "type": "step",
+                                            "category": "pw:api",
+                                            "status": "pw:api",
+                                            "duration": 54,
+                                            "location": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "page.goto(https://qa-ebooks.health.elsevier.com/)",
+                                    "type": "step",
+                                    "category": "pw:api",
+                                    "status": "pw:api",
+                                    "duration": 2258,
+                                    "location": "tests/ebooks/smokeTests.spec.js:16:14"
+                                },
+                                {
+                                    "title": "After Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 341,
+                                    "location": "",
+                                    "subs": [
+                                        {
+                                            "title": "Screenshot on failure",
+                                            "type": "step",
+                                            "category": "hook",
+                                            "status": "hook",
+                                            "duration": 155,
+                                            "location": "",
+                                            "subs": [
+                                                {
+                                                    "title": "page.screenshot",
+                                                    "type": "step",
+                                                    "category": "pw:api",
+                                                    "status": "pw:api",
+                                                    "duration": 146,
+                                                    "location": ""
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "title": "browserContext.close",
+                                            "type": "step",
+                                            "category": "pw:api",
+                                            "status": "pw:api",
+                                            "duration": 9,
+                                            "location": ""
+                                        }
+                                    ]
+                                }
+                            ],
+                            "numErrors": 2
+                        }
+                    ],
+                    "location": "tests/ebooks/smokeTests.spec.js:0:0"
+                }
+            ]
+        }
+    ],
+    "formatters": {},
+    "suiteTypes": [
+        "project",
+        "file",
+        "describe",
+        "shard"
+    ],
+    "caseTypes": [
+        "passed",
+        "flaky",
+        "skipped",
+        "failed"
+    ],
+    "tags": {
+        "uismoke": {
+            "value": 1
+        },
+        "allure": {
+            "value": 1
+        },
+        "nrt": {
+            "value": 1
+        }
+    },
+    "summary": {
+        "tests": {
+            "name": "Tests",
+            "value": 1,
+            "nav": true,
+            "id": "tests"
+        },
+        "passed": {
+            "name": "Passed",
+            "value": 0,
+            "color": "green",
+            "bg": "#22C45E",
+            "nav": true,
+            "id": "passed",
+            "percent": "0.0%"
+        },
+        "flaky": {
+            "name": "Flaky",
+            "value": 0,
+            "color": "orange",
+            "bg": "#F9CC15",
+            "nav": true,
+            "id": "flaky",
+            "percent": "0.0%"
+        },
+        "skipped": {
+            "name": "Skipped",
+            "value": 0,
+            "color": "gray",
+            "bg": "#94A3B7",
+            "nav": true,
+            "id": "skipped",
+            "percent": "0.0%"
+        },
+        "failed": {
+            "name": "Failed",
+            "value": 1,
+            "color": "#d00",
+            "bg": "#EE4444",
+            "nav": true,
+            "id": "failed",
+            "percent": "100.0%"
+        },
+        "steps": {
+            "name": "Steps",
+            "value": 15,
+            "id": "steps"
+        },
+        "suites": {
+            "name": "Suites",
+            "value": 1,
+            "id": "suites"
+        },
+        "projects": {
+            "name": "Projects",
+            "description": "Suite type is project",
+            "value": 1,
+            "id": "projects"
+        },
+        "files": {
+            "name": "Files",
+            "description": "Suite type is file",
+            "value": 1,
+            "id": "files"
+        },
+        "describes": {
+            "name": "Describes",
+            "description": "Suite type is describe",
+            "value": 0,
+            "id": "describes"
+        },
+        "shards": {
+            "name": "Shards",
+            "description": "Suite type is shard (only in shading mode)",
+            "value": 0,
+            "id": "shards"
+        },
+        "retries": {
+            "name": "Retries",
+            "value": 1,
+            "id": "retries"
+        },
+        "errors": {
+            "name": "Errors",
+            "value": 2,
+            "id": "errors"
+        },
+        "logs": {
+            "name": "Logs",
+            "value": 0,
+            "id": "logs"
+        },
+        "attachments": {
+            "name": "Attachments",
+            "value": 7,
+            "id": "attachments"
+        }
+    },
+    "pieChart": {
+        "ns": "mcr-pie",
+        "width": 360,
+        "height": 150,
+        "margin": 10,
+        "svg": "<svg viewBox=\"0 0 360 150\" width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><g class=\"mcr-pie-path-passed\"><path d=\"\" fill=\"green\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"0,-10\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g class=\"mcr-pie-path-flaky\"><path d=\"\" fill=\"orange\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"0,-10\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g class=\"mcr-pie-path-skipped\"><path d=\"\" fill=\"gray\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"0,-10\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g class=\"mcr-pie-path-failed\"><path d=\"M75,75 L75,10 A65,65 0 1 1 75,140 A65,65 0 1 1 75,10 z\" fill=\"#d00\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"0,10\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g transform=\"translate(160 10)\"><g class=\"mcr-pie-legend-passed\" transform=\"translate(0 0)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"green\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Passed</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">0</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">0.0%</text></g><g class=\"mcr-pie-legend-flaky\" transform=\"translate(0 32)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"orange\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Flaky</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">0</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">0.0%</text></g><g class=\"mcr-pie-legend-skipped\" transform=\"translate(0 64)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"gray\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Skipped</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">0</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">0.0%</text></g><g class=\"mcr-pie-legend-failed\" transform=\"translate(0 96)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"#d00\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Failed</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">1</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">100.0%</text></g></g></svg>"
+    }
+}

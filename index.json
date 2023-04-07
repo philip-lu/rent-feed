@@ -1,9 +1,9 @@
 {
     "name": "My Test Report",
-    "date": 1680882682457,
-    "dateH": "4/7/2023, 3:51:22 PM",
-    "duration": 8324,
-    "durationH": "8.3s",
+    "date": 1680883040760,
+    "dateH": "4/7/2023, 3:57:20 PM",
+    "duration": 10195,
+    "durationH": "10.2s",
     "cwd": "/home/runner/work/react-rent-feed/react-rent-feed",
     "outputFile": "./monocart-results/index.html",
     "outputDir": "./monocart-results",
@@ -12,8 +12,8 @@
         "cpu": {
             "color": "#117DBB",
             "count": 2,
-            "model": "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
-            "speed": 2593
+            "model": "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+            "speed": 2095
         },
         "mem": {
             "color": "#8B12AE",
@@ -24,48 +24,66 @@
         "release": "5.15.0-1035-azure",
         "type": "Linux",
         "version": "#42-Ubuntu SMP Tue Feb 28 19:41:23 UTC 2023",
-        "uptime": 381.97,
-        "hostname": "fv-az1135-110",
+        "uptime": 437.06,
+        "hostname": "fv-az487-970",
         "homedir": "/home/runner",
         "tmpdir": "/tmp",
-        "pid": 3338,
-        "timestampStart": 1680882682457,
+        "pid": 3352,
+        "timestampStart": 1680883040760,
         "ticks": [
             {
                 "cpu": {
-                    "percent": 2.94
+                    "percent": 19.57
                 },
                 "mem": {
-                    "free": 6150029312
+                    "free": 6109560832
                 },
-                "timestamp": 1680882684461
+                "timestamp": 1680883042765
             },
             {
                 "cpu": {
-                    "percent": 58.82
+                    "percent": 23.87
                 },
                 "mem": {
-                    "free": 6177705984
+                    "free": 6076923904
                 },
-                "timestamp": 1680882686462
+                "timestamp": 1680883044769
             },
             {
                 "cpu": {
-                    "percent": 25
+                    "percent": 64.14
                 },
                 "mem": {
-                    "free": 6067744768
+                    "free": 6098792448
                 },
-                "timestamp": 1680882688465
+                "timestamp": 1680883046770
             },
             {
                 "cpu": {
-                    "percent": 5.13
+                    "percent": 41.71
                 },
                 "mem": {
-                    "free": 6219894784
+                    "free": 6058946560
                 },
-                "timestamp": 1680882690755
+                "timestamp": 1680883048773
+            },
+            {
+                "cpu": {
+                    "percent": 11.34
+                },
+                "mem": {
+                    "free": 6181875712
+                },
+                "timestamp": 1680883050774
+            },
+            {
+                "cpu": {
+                    "percent": 3.5
+                },
+                "mem": {
+                    "free": 6181875712
+                },
+                "timestamp": 1680883050946
             }
         ],
         "workers": 1,
@@ -74,15 +92,15 @@
                 "caseId": "64713fa2b58b4e67de02",
                 "parallelIndex": 0,
                 "workerIndex": 0,
-                "timestamp": 1680882683016,
-                "duration": 3199
+                "timestamp": 1680883041413,
+                "duration": 4547
             },
             {
                 "caseId": "64713fa2b58b4e67de02",
                 "parallelIndex": 0,
                 "workerIndex": 1,
-                "timestamp": 1680882686598,
-                "duration": 2845
+                "timestamp": 1680883046424,
+                "duration": 3462
             }
         ],
         "cwd": "/home/runner/work/react-rent-feed/react-rent-feed",
@@ -91,7 +109,7 @@
         "testDir": "tests",
         "outputFile": "monocart-results/index.html",
         "outputDir": "monocart-results",
-        "timestampEnd": 1680882690781
+        "timestampEnd": 1680883050955
     },
     "trends": [],
     "columns": [
@@ -223,12 +241,12 @@
                             "expectedStatus": "passed",
                             "location": "tests/ebooks/smokeTests.spec.js:11:5",
                             "timestamps": [
-                                1680882683016,
-                                1680882686215,
-                                1680882686598,
-                                1680882689443
+                                1680883041413,
+                                1680883045960,
+                                1680883046424,
+                                1680883049886
                             ],
-                            "duration": 6427,
+                            "duration": 8473,
                             "timeout": 30000,
                             "attachments": [
                                 {
@@ -279,7 +297,7 @@
                                     "type": "step",
                                     "category": "hook",
                                     "status": "hook",
-                                    "duration": 1591,
+                                    "duration": 1145,
                                     "location": "",
                                     "subs": [
                                         {
@@ -287,7 +305,7 @@
                                             "type": "step",
                                             "category": "pw:api",
                                             "status": "pw:api",
-                                            "duration": 38,
+                                            "duration": 63,
                                             "location": ""
                                         }
                                     ]
@@ -297,7 +315,7 @@
                                     "type": "step",
                                     "category": "pw:api",
                                     "status": "pw:api",
-                                    "duration": 1434,
+                                    "duration": 3165,
                                     "location": "tests/ebooks/smokeTests.spec.js:16:14"
                                 },
                                 {
@@ -305,7 +323,7 @@
                                     "type": "step",
                                     "category": "hook",
                                     "status": "hook",
-                                    "duration": 169,
+                                    "duration": 219,
                                     "location": "",
                                     "subs": [
                                         {
@@ -313,75 +331,7 @@
                                             "type": "step",
                                             "category": "hook",
                                             "status": "hook",
-                                            "duration": 112,
-                                            "location": "",
-                                            "subs": [
-                                                {
-                                                    "title": "page.screenshot",
-                                                    "type": "step",
-                                                    "category": "pw:api",
-                                                    "status": "pw:api",
-                                                    "duration": 106,
-                                                    "location": ""
-                                                }
-                                            ]
-                                        },
-                                        {
-                                            "title": "browserContext.close",
-                                            "type": "step",
-                                            "category": "pw:api",
-                                            "status": "pw:api",
-                                            "duration": 10,
-                                            "location": ""
-                                        }
-                                    ]
-                                },
-                                {
-                                    "title": "Retry #1",
-                                    "type": "step",
-                                    "status": "retry",
-                                    "retry": 1
-                                },
-                                {
-                                    "title": "Before Hooks",
-                                    "type": "step",
-                                    "category": "hook",
-                                    "status": "hook",
-                                    "duration": 241,
-                                    "location": "",
-                                    "subs": [
-                                        {
-                                            "title": "browserContext.newPage",
-                                            "type": "step",
-                                            "category": "pw:api",
-                                            "status": "pw:api",
-                                            "duration": 54,
-                                            "location": ""
-                                        }
-                                    ]
-                                },
-                                {
-                                    "title": "page.goto(https://qa-ebooks.health.elsevier.com/)",
-                                    "type": "step",
-                                    "category": "pw:api",
-                                    "status": "pw:api",
-                                    "duration": 2258,
-                                    "location": "tests/ebooks/smokeTests.spec.js:16:14"
-                                },
-                                {
-                                    "title": "After Hooks",
-                                    "type": "step",
-                                    "category": "hook",
-                                    "status": "hook",
-                                    "duration": 341,
-                                    "location": "",
-                                    "subs": [
-                                        {
-                                            "title": "Screenshot on failure",
-                                            "type": "step",
-                                            "category": "hook",
-                                            "status": "hook",
-                                            "duration": 155,
+                                            "duration": 156,
                                             "location": "",
                                             "subs": [
                                                 {
@@ -399,7 +349,75 @@
                                             "type": "step",
                                             "category": "pw:api",
                                             "status": "pw:api",
-                                            "duration": 9,
+                                            "duration": 8,
+                                            "location": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Retry #1",
+                                    "type": "step",
+                                    "status": "retry",
+                                    "retry": 1
+                                },
+                                {
+                                    "title": "Before Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 284,
+                                    "location": "",
+                                    "subs": [
+                                        {
+                                            "title": "browserContext.newPage",
+                                            "type": "step",
+                                            "category": "pw:api",
+                                            "status": "pw:api",
+                                            "duration": 55,
+                                            "location": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "page.goto(https://qa-ebooks.health.elsevier.com/)",
+                                    "type": "step",
+                                    "category": "pw:api",
+                                    "status": "pw:api",
+                                    "duration": 2718,
+                                    "location": "tests/ebooks/smokeTests.spec.js:16:14"
+                                },
+                                {
+                                    "title": "After Hooks",
+                                    "type": "step",
+                                    "category": "hook",
+                                    "status": "hook",
+                                    "duration": 455,
+                                    "location": "",
+                                    "subs": [
+                                        {
+                                            "title": "Screenshot on failure",
+                                            "type": "step",
+                                            "category": "hook",
+                                            "status": "hook",
+                                            "duration": 227,
+                                            "location": "",
+                                            "subs": [
+                                                {
+                                                    "title": "page.screenshot",
+                                                    "type": "step",
+                                                    "category": "pw:api",
+                                                    "status": "pw:api",
+                                                    "duration": 224,
+                                                    "location": ""
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "title": "browserContext.close",
+                                            "type": "step",
+                                            "category": "pw:api",
+                                            "status": "pw:api",
+                                            "duration": 15,
                                             "location": ""
                                         }
                                     ]

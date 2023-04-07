@@ -36,8 +36,8 @@ jobs:
       - uses: actions/upload-artifact@v3
         if: always()
         with:
-          name: allure-results
-          path: allure-results/
+          name: monocart-results
+          path: monocart-results/
           retention-days: 30
       
 
